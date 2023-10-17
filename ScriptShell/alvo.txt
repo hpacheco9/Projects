@@ -1,0 +1,11 @@
+oi
+hola
+hh
+hh
+hh
+README.md
+al.txt
+alvo.txt
+historico.txt
+prompt.sh
+

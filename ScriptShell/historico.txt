@@ -1,0 +1,13 @@
+data
+quem
+processos
+limpar
+tempo
+ler alvo.txt
+encontrar C
+redirecionar /source/Scriptshell alvo.txt
+pipe arquitetura
+help
+help quem
+listar
+exit
