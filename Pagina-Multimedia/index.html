@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Arcadia</title>
+    <meta charset="UTF-8" />  <!-- Definição da codificação de caracteres -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Configuração para compatibilidade com o Internet Explorer -->
+    <meta name="viewport" content="width=device-width,device-height" initial-scale="1.0"/> <!-- Configuração de visualização para dispositivos móveis -->
+    <link rel="icon" href="./images/pagina_icon.ico" type="image/x-icon" /> <!-- Ícone da página exibido na guia do navegador -->
+    <link rel="stylesheet" href="styles/index.css" />  <!-- Importação do arquivo CSS -->
+    <script src="./scripts.js"></script> <!-- Importação do arquivo JavaScript -->
+  </head>
+
+  <body>
+    <!-- Secção do inicio -->
+    <nav class="barra_navegacao"> <!-- Barra de navegação -->
+      <img
+        srcset="./images/logo.png, ./images/logo2x.png"
+        class="logo"
+        onclick="location.href='index.html'"
+        alt="Logo"
+      /> <!-- Imagem do logo com suporte a resoluções diferentes -->
+      <ul>
+        <li><a href="#" class="ative">Home</a></li> <!-- Item do menu selecionado -->
+        <li><a href="#" onclick="location.href='about.html'">SOBRE  </a></li> <!-- Clique no item redireciona para a página sobre -->
+        <li><a href="#" onclick="location.href='faq.html'">FAQ</a></li> <!-- Clique no item redireciona para a página FAQ -->
+        <li><a href="#" onclick="location.href='contacto.html'">CONTACTO</a></li>  <!-- Clique no item redireciona para a página de contato -->
+      </ul>
+    </nav>
+     
+    
+    <!-- Secção do meio-->
+    <div class="middle"> <!-- Seção central da página -->
+      <div class="Informacao"> <!-- Informações principais -->
+        <h1 id="capitulo">Arcadia LAN Party</h1> <!-- Título principal -->
+        <h3>1ª Edição</h3> <!-- Subtítulo -->
+        <id="Informacao"> <!-- Parágrafo de informações -->
+          Venha se juntar a nós para uma Lan Party incrível, cheia de jogos, competições <br>
+          e momentos épicos. Venha se divertir conosco!
+        </p>
+        <div class="info"> <!-- Informações adicionais -->
+          <img src="./images/location.svg" class="location" alt="Location"> <!-- Ícone de localização -->
+          <p>Universidade dos Açores</p> <!-- Texto de localização -->
+          <img src="./images/calendar.svg" class="calendar" alt="Calendário"> <!-- Ícone de calendário -->
+          <p>7 - 9 Julho</p> <!-- Texto de data -->
+          
+        </div>
+        <button type="button" id="participar"><span id="texto_butao">Participar</span></button> <!-- Botão "Participar" -->
+      </div>
+      <img src="./images/giphy.gif" class="gif" />
+    </div> <!-- Imagem animada -->
+
+    <!-- Fim da página-->
+    <footer class="footer"> <!-- Rodapé da página -->
+      <p id="copyright">© 2023 Arcadia, Inc. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

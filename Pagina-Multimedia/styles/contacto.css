@@ -1,0 +1,153 @@
+/* Definição das propriedades de estilo para o corpo da página */
+body {
+  background-color: black;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Definição das propriedades de estilo para o logotipo */
+.logo {
+  width: 20%;
+  height: 20%;
+  cursor: pointer;
+}
+
+/* Definição das propriedades de estilo para a barra de navegação */
+.barra_navegacao {
+  width: 80%;
+  margin: auto;
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Definição das propriedades de estilo para os itens da lista na barra de navegação */
+.barra_navegacao ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+  position: relative;
+}
+
+/* Definição das propriedades de estilo para os links na barra de navegação */
+.barra_navegacao ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação */
+.barra_navegacao ul li::after {
+  content: "";
+  height: 3px;
+  width: 0%;
+  background-color: rgba(164, 22, 26, 1);
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  transition: 0.5s;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação ao passar o mouse */
+.barra_navegacao ul li:hover::after {
+  width: 100%;
+}
+
+/* Definição das propriedades de estilo para o rodapé */
+.footer {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Definição das propriedades de estilo para o texto no rodapé */
+.footer p {
+  margin-right: 850px;
+  color: white;
+}
+
+/* Definição das propriedades de estilo para os itens da lista no rodapé */
+.footer ul li {
+  list-style: none;
+  display: inline;
+  list-style: none;
+  align-items: center;
+  margin: 0 20px;
+}
+
+/* Definição das propriedades de estilo para as imagens no rodapé */
+.footer ul li img {
+  width: 8%;
+}
+
+/* Definição das propriedades de estilo para o texto de direitos autorais no rodapé */
+#copyright {
+  color: white;
+}
+
+/* Definição das propriedades de estilo para o item ativo na barra de navegação */
+.ative {
+  font-weight: bold;
+}
+
+/* Definição das propriedades de estilo para a seção central */
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Definição das propriedades de estilo para a seção de contacto */
+.contacte-nos {
+  width: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 40px;
+  border-radius: 10px;
+}
+
+/* Definição das propriedades de estilo para o cabeçalho na seção de contacto */
+.contacte-nos h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Definição das propriedades de estilo para o formulário na seção de contacto */
+.contacte-nos form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Definição das propriedades de estilo para as etiquetas no formulário da seção de contacto */
+.contacte-nos label {
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* Definição das propriedades de estilo para a área de texto no formulário da seção de contacto */
+.contacte-nos textarea {
+  resize: none;
+}
+
+/* Definição das propriedades de estilo para os campos de entrada no formulário da seção de contacto */
+.contacte-nos input,
+.contacte-nos textarea {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Definição das propriedades de estilo para o botão de envio no formulário da seção de contacto */
+.contacte-nos input[type="submit"] {
+  background-color: rgba(164, 22, 26, 1);
+  color: white;
+  cursor: pointer;
+}
+
+/* Definição das propriedades de estilo para o botão de envio ao passar o mouse */
+.contacte-nos input[type="submit"]:hover {
+  background-color: rgba(164, 22, 26, 0.8);
+}

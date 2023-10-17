@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Arcadia</title>
+    <meta charset="UTF-8" />
+    <!-- Definição da codificação de caracteres -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Configuração para compatibilidade com o Internet Explorer -->
+    <meta
+      name="viewport"
+      content="width=device-width,device-height"
+      initial-scale="1.0"
+    />
+    <!-- Configuração de visualização para dispositivos móveis -->
+    <link rel="icon" href="./images/pagina_icon.ico" type="image/x-icon" />
+    <!-- Ícone da página exibido na guia do navegador -->
+    <link rel="stylesheet" href="styles/about.css" />
+    <!-- Importação do arquivo CSS -->
+    <script src="./scripts.js"></script>
+    <!-- Importação do arquivo JavaScript -->
+  </head>
+
+  <body>
+    <!-- Secção do inicio -->
+    <div class="barra_navegacao">
+      <!-- Barra de navegação -->
+      <img
+        src="./images/logo.png"
+        class="logo"
+        onclick="location.href='index.html'"
+      />
+      <!-- Clique no logo redireciona para a página inicial -->
+      <ul>
+        <li><a href="#" onclick="location.href='index.html'">Home</a></li>
+        <!-- Clique no item redireciona para a página inicial -->
+        <li><a href="#" class="ative">Sobre</a></li>
+        <!-- Item do menu selecionado -->
+        <li><a href="#" onclick="location.href='faq.html'">FAQ</a></li>
+        <!-- Clique no item redireciona para a página FAQ -->
+        <li>
+          <a href="#" onclick="location.href='contacto.html'">Contacto</a>
+        </li>
+        <!-- Clique no item redireciona para a página de contato -->
+      </ul>
+    </div>
+
+    <!-- Secção do meio-->
+    <section class="middle">
+      <!-- Seção central da página -->
+      <h1 id="about">SOBRE</h1>
+      <!-- Título "SOBRE" -->
+      <p>
+        A Arcadia é uma empresa inovadora e apaixonada por jogos que se dedica a
+        proporcionar as melhores experiências em lan parties. <br />
+        Nossa missão é criar um espaço onde os jogadores possam se reunir,
+        compartilhar sua paixão por jogos e desfrutar de uma experiência de jogo
+        única. <br />
+        Temos uma equipe dedicada que organiza torneios regulares e eventos
+        especiais, onde você pode competir contra outros jogadores e mostrar
+        suas habilidades.
+      </p>
+
+      <h1 id="capitulo">STAFF</h1>
+      <!-- Título "STAFF" -->
+      <div class="imagens">
+        <!-- Divisão para exibição das imagens do staff -->
+
+        <div class="borda">
+          <img src="./images/henrique.svg" alt="Foto do henrique" />
+          <!-- Imagem do membro Henrique -->
+        </div>
+        <div class="borda">
+          <img src="./images/manuel.svg" alt="Foto do manuel" />
+          <!-- Imagem do membro Manuel -->
+        </div>
+        <div class="borda">
+          <img src="./images/joao.svg" alt="Foto do joão" />
+          <!-- Imagem do membro João -->
+        </div>
+        <div class="borda">
+          <img src="./images/miguel.svg" alt="Foto do miguel" />
+          <!-- Imagem do membro Miguel -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Fim da página-->
+    <footer class="footer">
+      <!-- Rodapé da página -->
+      <p id="copyright">© 2023 Arcadia, Inc. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

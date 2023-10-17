@@ -1,0 +1,128 @@
+/* Definição das propriedades de estilo para o corpo da página */
+body {
+  background-color: black;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Definição das propriedades de estilo para o logotipo */
+.logo {
+  width: 20%;
+  height: 20%;
+  cursor: pointer;
+}
+
+/* Definição das propriedades de estilo para a barra de navegação */
+.barra_navegacao {
+  width: 80%;
+  margin: auto;
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Definição das propriedades de estilo para os itens da lista na barra de navegação */
+.barra_navegacao ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+  position: relative;
+}
+
+/* Definição das propriedades de estilo para os links na barra de navegação */
+.barra_navegacao ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação */
+.barra_navegacao ul li::after {
+  content: "";
+  height: 3px;
+  width: 0%;
+  background-color: rgba(164, 22, 26, 1);
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  transition: 0.5s;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação ao passar o mouse */
+.barra_navegacao ul li:hover::after {
+  width: 100%;
+}
+
+/* Definição das propriedades de estilo para o rodapé */
+.footer {
+  margin-left: 200px;
+  margin-top: 130px;
+  color: white;
+}
+
+/* Definição das propriedades de estilo para o item ativo na barra de navegação */
+.ative {
+  font-weight: bold;
+}
+
+/* Definição das propriedades de estilo para a seção de perguntas frequentes */
+.faq-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* Definição das propriedades de estilo para o separador de perguntas frequentes */
+.separador {
+  width: 60%;
+  margin: auto;
+  color: white;
+}
+
+/* Definição das propriedades de estilo para o cabeçalho de perguntas frequentes */
+.faq-header {
+  color: white;
+  cursor: pointer;
+  padding: 30px 20px;
+  width: 60%;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  margin: auto;
+}
+
+/* Definição das propriedades de estilo para o parágrafo de perguntas frequentes */
+.faq-paragrafo {
+  margin: auto;
+  width: 50%;
+  padding: auto;
+}
+
+/* Definição das propriedades de estilo para o cabeçalho ativo e ao passar o mouse nas perguntas frequentes */
+.active,
+.faq-header:hover {
+  background-color: rgba(164, 22, 26, 1);
+}
+
+/* Definição das propriedades de estilo para o parágrafo de perguntas frequentes quando está expandido */
+.faq-paragrafo {
+  padding: 0 18px;
+  background: none;
+  display: none;
+  overflow: hidden;
+  color: white;
+}
+
+/* Definição do ícone "+" no cabeçalho das perguntas frequentes */
+.faq-header:after {
+  content: "\02795";
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+/* Definição do ícone "-" no cabeçalho das perguntas frequentes quando está expandido */
+.active:after {
+  content: "\2796";
+}

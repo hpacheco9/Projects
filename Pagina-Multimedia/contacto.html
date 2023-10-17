@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Arcadia</title>
+    <meta charset="UTF-8" />
+    <!-- Definição da codificação de caracteres -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Configuração para compatibilidade com o Internet Explorer -->
+    <meta
+      name="viewport"
+      content="width=device-width,device-height"
+      initial-scale="1.0"
+    />
+    <!-- Configuração de visualização para dispositivos móveis -->
+    <link rel="icon" href="./images/pagina_icon.ico" type="image/x-icon" />
+    <!-- Ícone da página exibido na guia do navegador -->
+    <link rel="stylesheet" href="styles/contacto.css" />
+    <!-- Importação do arquivo CSS -->
+    <script src="./scripts.js"></script>
+    <!-- Importação do arquivo JavaScript -->
+  </head>
+
+  <body>
+    <!-- Secção do inicio -->
+    <nav class="barra_navegacao">
+      <!-- Barra de navegação -->
+      <img
+        srcset="./images/logo.png, ./images/logo2x.png"
+        class="logo"
+        onclick="location.href='index.html'"
+        alt="Logo"
+      />
+      <!-- Imagem do logo com suporte a resoluções diferentes -->
+      <!-- Clique no logo redireciona para a página inicial -->
+      <ul>
+        <li><a href="#" onclick="location.href='index.html'">Home</a></li>
+        <!-- Clique no item redireciona para a página inicial -->
+        <li><a href="#" onclick="location.href='about.html'">SOBRE </a></li>
+        <!-- Clique no item redireciona para a página sobre -->
+        <li><a href="#" onclick="location.href='faq.html'">FAQ</a></li>
+        <!-- Clique no item redireciona para a página de perguntas frequentes -->
+        <li><a href="#" class="ative">CONTACTO</a></li>
+        <!-- Item do menu selecionado -->
+      </ul>
+    </nav>
+
+    <!-- Secção do meio-->
+    <div class="middle">
+      <!-- Divisão central -->
+      <!-- Contacte-nos formulário, e-mail=#, Nome, dúvida, cor branca -->
+      <div class="contacte-nos">
+        <h1>Contacte-nos</h1>
+        <!-- Título do formulário -->
+        <form action="mailto:#" method="post" enctype="text/plain">
+          <!-- Ação do formulário de envio por e-mail -->
+          <label for="nome">Nome:</label>
+          <!-- Rótulo do campo "Nome" -->
+          <input type="text" id="nome" name="nome" required />
+          <!-- Campo de entrada de texto para o nome (obrigatório) -->
+          <label for="email">E-mail:</label>
+          <!-- Rótulo do campo "E-mail" -->
+          <input type="email" id="email" name="email" required />
+          <!-- Campo de entrada de texto para o e-mail (obrigatório) -->
+          <label for="duvida">Dúvida:</label>
+          <!-- Rótulo do campo "Dúvida" -->
+          <textarea id="duvida" name="duvida" required></textarea>
+          <!-- Campo de entrada de texto para a dúvida (obrigatório) -->
+          <input type="submit" value="Enviar" />
+          <!-- Botão de envio do formulário -->
+        </form>
+      </div>
+    </div>
+
+    <!-- Fim da página-->
+    <footer class="footer">
+      <!-- Rodapé da página -->
+      <p id="copyright">© 2023 Arcadia, Inc. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

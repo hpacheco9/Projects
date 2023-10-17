@@ -1,0 +1,142 @@
+/* Definição das propriedades de estilo para o corpo da página */
+body {
+  background-color: black;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Definição das propriedades de estilo para o logotipo */
+.logo {
+  width: 20%;
+  height: 20%;
+  cursor: pointer;
+}
+
+/* Definição das propriedades de estilo para a barra de navegação */
+.barra_navegacao {
+  width: 80%;
+  margin: auto;
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Definição das propriedades de estilo para os itens da lista na barra de navegação */
+.barra_navegacao ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+  position: relative;
+}
+
+/* Definição das propriedades de estilo para os links na barra de navegação */
+.barra_navegacao ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação */
+.barra_navegacao ul li::after {
+  content: "";
+  height: 3px;
+  width: 0%;
+  background-color: rgba(164, 22, 26, 1);
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  transition: 0.5s;
+}
+
+/* Definição das propriedades de estilo para o efeito de destaque nos itens da barra de navegação ao passar o mouse */
+.barra_navegacao ul li:hover::after {
+  width: 100%;
+}
+
+/* Definição das propriedades de estilo para o parágrafo com id "paragrafo_1" */
+#paragrafo_1 {
+  color: white;
+  text-align: center;
+}
+
+/* Definição das propriedades de estilo para a seção central */
+.middle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+/* Definição das propriedades de estilo para a informação */
+.Informacao {
+  color: white;
+  text-align: center;
+  margin-right: 100px;
+}
+
+/* Definição das propriedades de estilo para o gif */
+.gif {
+  width: 20%;
+  height: 20%;
+}
+
+/* Definição das propriedades de estilo para o rodapé */
+.footer {
+  margin-left: 200px;
+  margin-top: 150px;
+  color: white;
+}
+
+/* Definição das propriedades de estilo para o item ativo na barra de navegação */
+.ative {
+  font-weight: bold;
+}
+
+/* Definição das propriedades de estilo para as informações */
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Definição das propriedades de estilo para os parágrafos nas informações */
+.info p {
+  margin-left: -200px;
+}
+
+/* Definição das propriedades de estilo para o botão de participação */
+#participar {
+  margin-top: 20px;
+  position: relative;
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 15px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+/* Definição das propriedades de estilo para o texto do botão de participação */
+#texto_butao {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-transform: uppercase;
+}
+
+/* Definição das propriedades de estilo para o efeito de transição no botão de participação */
+#participar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(164, 22, 26, 1);
+  transition: left 1s ease-in-out;
+  z-index: 1;
+}
+
+/* Definição das propriedades de estilo para o efeito de transição no botão de participação ao passar o mouse */
+#participar:hover::before {
+  left: 0;
+}
