@@ -1,0 +1,37 @@
+{
+  "Miradouro Lagoa do Fogo": {
+    "Origem": "Miradouro Lagoa do Fogo",
+    "Destino": "Janela do Inferno",
+    "Distancia": 5,
+    "Velocidade_min": 10,
+    "Velocidade_max": 30
+  },
+  "Janela do Inferno": {
+    "Origem": "Janela do Inferno",
+    "Destino": "Complexo Municipal de Piscinas da Lagoa",
+    "Distancia": 4,
+    "Velocidade_min": 15,
+    "Velocidade_max": 30
+  },
+  "Complexo Municipal de Piscinas da Lagoa": {
+    "Origem": "Complexo Municipal de Piscinas da Lagoa",
+    "Destino": "Restaurante Jose do Rego",
+    "Distancia": 1,
+    "Velocidade_min": 10,
+    "Velocidade_max": 40
+  },
+  "Restaurante Jose do Rego": {
+    "Origem": "Restaurante Jose do Rego",
+    "Destino": "Miradouro Lagoa do Fogo",
+    "Distancia": 10,
+    "Velocidade_min": 30,
+    "Velocidade_max": 90
+  },
+  "Bar Caloura": {
+    "Origem": "Bar Caloura",
+    "Destino": "Miradouro Lagoa do Fogo",
+    "Distancia": 4,
+    "Velocidade_min": 20,
+    "Velocidade_max": 60
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "1": {
+    "id": 1,
+    "designacao": "Miradouro Lagoa do Fogo",
+    "Morada": "EN5-2A, Ribeira Grande",
+    "Latitude": 37.749997,
+    "Longitude": -25.4666648,
+    "categoria": [
+      "natureza"
+    ],
+    "acess": [
+      "estrada"
+    ],
+    "geo": [
+      "Parque estacionamento"
+    ],
+    "Suges": [
+      "Observacao de passaros"
+    ],
+    "avaliacao": [
+      3
+    ],
+    "visitas": 1
+  },
+  "2": {
+    "id": 2,
+    "designacao": "Restaurante Jose do Rego",
+    "Morada": "Rua Nossa Senhora das Necessidades 30, Atalhada, 9560-418 Lagoa",
+    "Latitude": 37.746911371395626,
+    "Longitude": -25.590122070929162,
+    "categoria": [
+      "gastronomia"
+    ],
+    "acess": [
+      "estrada"
+    ],
+    "geo": [
+      "Parque de estacionamento"
+    ],
+    "Suges": [
+      "Bife a regional"
+    ],
+    "avaliacao": [
+      5
+    ],
+    "visitas": 1
+  },
+  "3": {
+    "id": 3,
+    "designacao": "Complexo Municipal de Piscinas da Lagoa",
+    "Morada": "R. da Cidade de New Bedford 27 9560, Lagoa",
+    "Latitude": 37.74190209384724,
+    "Longitude": -25.573815700877432,
+    "categoria": [
+      "Lazer"
+    ],
+    "acess": [
+      "Escadas"
+    ],
+    "geo": [
+      "Estrada"
+    ],
+    "Suges": [
+      "Tomar banho"
+    ],
+    "avaliacao": [
+      2
+    ],
+    "visitas": 1
+  },
+  "4": {
+    "id": 4,
+    "designacao": "Bar Caloura",
+    "Morada": "Rua da Caloura, 20, 9560-211 Agua de Pau",
+    "Latitude": 37.714202015294745,
+    "Longitude": -25.495177361131084,
+    "categoria": [
+      "Gastronomia"
+    ],
+    "acess": [
+      "Escadas"
+    ],
+    "geo": [
+      "Estrada"
+    ],
+    "Suges": [
+      "Marisco"
+    ],
+    "avaliacao": [
+      1
+    ],
+    "visitas": 1
+  }
+}
