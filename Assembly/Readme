@@ -1,0 +1,50 @@
+# Projeto - Arquitetura de Computadores - Grupo 6
+
+Programa para output de caracteres em x86 Assembly com yasm
+
+## Software necessário
+ - Makefile
+ - Yasm
+ - gdb 
+ - ld
+
+## Construção de Código
+
+Instalar make para o Makefile
+
+Ubuntu: 
+```bash
+sudo apt install make
+```
+
+Para inicializar
+
+```bash
+make init
+```
+Para construir 
+```bash
+make Build
+```
+Para executar 
+```bash
+./programa
+```
+Para limpar binários e objetos
+```bash
+make clean
+```
+
+## Elaborado por:
+
+Miguel Rego: 2022108903
+
+João Linhares: 2022110926
+
+Manuel Estrela: 2022113477
+
+Henrique Pacheco: 2022113604
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
