@@ -21,7 +21,7 @@ MENU = """──────────── MENU ─────────�
 
 R = 6371
 
-FICHEIRO_JSON = "../pontos-interesse.json"
+FICHEIRO_JSON = "../pontos/pontos-interesse.json"
 FICHEIRO_REDE = "../ViaCirculacao/rede.json"
 FICHEIRO_TICKET = "../Ticket/ticket.json"
 

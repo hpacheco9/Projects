@@ -1,6 +1,6 @@
 import json
 import matplotlib.pyplot as plt
-from Pontos.pontointeresse import Ponto
+from pontos.pontointeresse import Ponto
 from ViaCirculacao.ViaCirculacao import ViaCirculacao
 from Estruturas.Grafos.grafo import Grafo
 from Estruturas.DoubleNode.doublenode import LinkedList
