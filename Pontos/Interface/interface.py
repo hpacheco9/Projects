@@ -1,4 +1,4 @@
-from Pontos.pontointeresse import Ponto
+from pontos.pontointeresse import Ponto
 from constantes.constantes import MENU, SOBRE
 from os import system
 from Funções.funcoes import verifica_strings, verifica_avaliacao, verifica_floats

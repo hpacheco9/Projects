@@ -1,4 +1,4 @@
-from Pontos.pontointeresse import Ponto
+from pontos.pontointeresse import Ponto
 from Estruturas.DoubleNode.doublenode import LinkedList
 
 

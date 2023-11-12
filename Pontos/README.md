@@ -1,2 +1,2 @@
 # Projeto de Algoritmos e Estruturas de dados 
-## 1ºano | 2º Smestre 
+``` 1ºano | 2º Smestre ```
