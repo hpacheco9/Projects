@@ -1,0 +1,6346 @@
+{
+  "users": [
+    {
+      "PrimeiroNome": "Humil Care",
+      "UltimoNome": "",
+      "Email": "HumilCare@HumilCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Teofarma",
+      "UltimoNome": "",
+      "Email": "Teofarma@Teofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Hasse",
+      "UltimoNome": "",
+      "Email": "Hasse@Hasse.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Unilever",
+      "UltimoNome": "",
+      "Email": "Unilever@Unilever.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Swyser",
+      "UltimoNome": "",
+      "Email": "Swyser@Swyser.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Entheos",
+      "UltimoNome": "",
+      "Email": "Entheos@Entheos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lundbeck Portugal",
+      "UltimoNome": "",
+      "Email": "LundbeckPortugal@LundbeckPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sanoderm",
+      "UltimoNome": "",
+      "Email": "Sanoderm@Sanoderm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Salvat",
+      "UltimoNome": "",
+      "Email": "Salvat@Salvat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Skinspiration",
+      "UltimoNome": "",
+      "Email": "Skinspiration@Skinspiration.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TILIAFARMA      >>",
+      "UltimoNome": "",
+      "Email": "TILIAFARMA>>@TILIAFARMA>>.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "HALEON",
+      "UltimoNome": "",
+      "Email": "HALEON@HALEON.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ciba Vision",
+      "UltimoNome": "",
+      "Email": "CibaVision@CibaVision.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Merial Portuguesa",
+      "UltimoNome": "",
+      "Email": "MerialPortuguesa@MerialPortuguesa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BARRAL",
+      "UltimoNome": "",
+      "Email": "BARRAL@BARRAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Agroviseu",
+      "UltimoNome": "",
+      "Email": "Agroviseu@Agroviseu.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ATN MEDICAL",
+      "UltimoNome": "",
+      "Email": "ATNMEDICAL@ATNMEDICAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Naturinga",
+      "UltimoNome": "",
+      "Email": "Naturinga@Naturinga.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pierre Fabre Dermatologie",
+      "UltimoNome": "",
+      "Email": "PierreFabreDermatologie@PierreFabreDermatologie.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bayer",
+      "UltimoNome": "",
+      "Email": "Bayer@Bayer.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "A.M.D.PASSOS LDA",
+      "UltimoNome": "",
+      "Email": "A.M.D.PASSOSLDA@A.M.D.PASSOSLDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FootStudy",
+      "UltimoNome": "",
+      "Email": "FootStudy@FootStudy.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sellium Pharma",
+      "UltimoNome": "",
+      "Email": "SelliumPharma@SelliumPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PEETH",
+      "UltimoNome": "",
+      "Email": "PEETH@PEETH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CURAN MEDICAL",
+      "UltimoNome": "",
+      "Email": "CURANMEDICAL@CURANMEDICAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Phytoderm",
+      "UltimoNome": "",
+      "Email": "Phytoderm@Phytoderm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Doctorgummy",
+      "UltimoNome": "",
+      "Email": "Doctorgummy@Doctorgummy.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Niam",
+      "UltimoNome": "",
+      "Email": "Niam@Niam.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biogen Portugal",
+      "UltimoNome": "",
+      "Email": "BiogenPortugal@BiogenPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Uriage",
+      "UltimoNome": "",
+      "Email": "Uriage@Uriage.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Duofarma",
+      "UltimoNome": "",
+      "Email": "Duofarma@Duofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dum Dum Portugal",
+      "UltimoNome": "",
+      "Email": "DumDumPortugal@DumDumPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Innovac Cosmet Far",
+      "UltimoNome": "",
+      "Email": "InnovacCosmetFar@InnovacCosmetFar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Menarini",
+      "UltimoNome": "",
+      "Email": "Menarini@Menarini.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biolotus",
+      "UltimoNome": "",
+      "Email": "Biolotus@Biolotus.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermoteca",
+      "UltimoNome": "",
+      "Email": "Dermoteca@Dermoteca.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharma Nord",
+      "UltimoNome": "",
+      "Email": "PharmaNord@PharmaNord.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ortoraf",
+      "UltimoNome": "",
+      "Email": "Ortoraf@Ortoraf.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Inovederm",
+      "UltimoNome": "",
+      "Email": "Inovederm@Inovederm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MPS MARKFARMA LDA",
+      "UltimoNome": "",
+      "Email": "MPSMARKFARMALDA@MPSMARKFARMALDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Calêndula",
+      "UltimoNome": "",
+      "Email": "Calêndula@Calêndula.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "P&G Health",
+      "UltimoNome": "",
+      "Email": "P&GHealth@P&GHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Care Diagnostica",
+      "UltimoNome": "",
+      "Email": "CareDiagnostica@CareDiagnostica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Distrifarma",
+      "UltimoNome": "",
+      "Email": "Distrifarma@Distrifarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Artsana",
+      "UltimoNome": "",
+      "Email": "Artsana@Artsana.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Interespuma",
+      "UltimoNome": "",
+      "Email": "Interespuma@Interespuma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ponto & Vírgula",
+      "UltimoNome": "",
+      "Email": "Ponto&Vírgula@Ponto&Vírgula.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bayer Consumer Health",
+      "UltimoNome": "",
+      "Email": "BayerConsumerHealth@BayerConsumerHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Goldfarma",
+      "UltimoNome": "",
+      "Email": "Goldfarma@Goldfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Global Sante",
+      "UltimoNome": "",
+      "Email": "GlobalSante@GlobalSante.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Eurotc",
+      "UltimoNome": "",
+      "Email": "Eurotc@Eurotc.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lilly",
+      "UltimoNome": "",
+      "Email": "Lilly@Lilly.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DESMA LAB FARM",
+      "UltimoNome": "",
+      "Email": "DESMALABFARM@DESMALABFARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Mps Markfarma",
+      "UltimoNome": "",
+      "Email": "MpsMarkfarma@MpsMarkfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alloga Portugal",
+      "UltimoNome": "",
+      "Email": "AllogaPortugal@AllogaPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FRESENIUS MED.CARE",
+      "UltimoNome": "",
+      "Email": "FRESENIUSMED.CARE@FRESENIUSMED.CARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ROVI SA",
+      "UltimoNome": "",
+      "Email": "ROVISA@ROVISA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutricatal",
+      "UltimoNome": "",
+      "Email": "Nutricatal@Nutricatal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmasac",
+      "UltimoNome": "",
+      "Email": "Pharmasac@Pharmasac.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Rhône-Poulenc Rorer",
+      "UltimoNome": "",
+      "Email": "Rhône-PoulencRorer@Rhône-PoulencRorer.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CS Portugal",
+      "UltimoNome": "",
+      "Email": "CSPortugal@CSPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MAÇÃCANELA",
+      "UltimoNome": "",
+      "Email": "MAÇÃCANELA@MAÇÃCANELA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bicarboquimica",
+      "UltimoNome": "",
+      "Email": "Bicarboquimica@Bicarboquimica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bial",
+      "UltimoNome": "",
+      "Email": "Bial@Bial.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Brita Portugal",
+      "UltimoNome": "",
+      "Email": "BritaPortugal@BritaPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BRISTOL-MYERS SQUI",
+      "UltimoNome": "",
+      "Email": "BRISTOL-MYERSSQUI@BRISTOL-MYERSSQUI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Basi",
+      "UltimoNome": "",
+      "Email": "Basi@Basi.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AM Pharma",
+      "UltimoNome": "",
+      "Email": "AMPharma@AMPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Wynn",
+      "UltimoNome": "",
+      "Email": "Wynn@Wynn.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Certamoda",
+      "UltimoNome": "",
+      "Email": "Certamoda@Certamoda.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Phytodox",
+      "UltimoNome": "",
+      "Email": "Phytodox@Phytodox.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fharmonat",
+      "UltimoNome": "",
+      "Email": "Fharmonat@Fharmonat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Atral",
+      "UltimoNome": "",
+      "Email": "Atral@Atral.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kepawel",
+      "UltimoNome": "",
+      "Email": "Kepawel@Kepawel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PROMOFARMA",
+      "UltimoNome": "",
+      "Email": "PROMOFARMA@PROMOFARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Blisscare",
+      "UltimoNome": "",
+      "Email": "Blisscare@Blisscare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermworks",
+      "UltimoNome": "",
+      "Email": "Dermworks@Dermworks.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Theralab",
+      "UltimoNome": "",
+      "Email": "Theralab@Theralab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Neosanté Health",
+      "UltimoNome": "",
+      "Email": "NeosantéHealth@NeosantéHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Allergan",
+      "UltimoNome": "",
+      "Email": "Allergan@Allergan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Orphan",
+      "UltimoNome": "",
+      "Email": "Orphan@Orphan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gbso II Pharma",
+      "UltimoNome": "",
+      "Email": "GbsoIIPharma@GbsoIIPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Botánicapharma",
+      "UltimoNome": "",
+      "Email": "Botánicapharma@Botánicapharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Setálcool",
+      "UltimoNome": "",
+      "Email": "Setálcool@Setálcool.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Isus",
+      "UltimoNome": "",
+      "Email": "Isus@Isus.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Adnpharma",
+      "UltimoNome": "",
+      "Email": "Adnpharma@Adnpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nuggela & Sulé",
+      "UltimoNome": "",
+      "Email": "Nuggela&Sulé@Nuggela&Sulé.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MMCarmo",
+      "UltimoNome": "",
+      "Email": "MMCarmo@MMCarmo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farxpress",
+      "UltimoNome": "",
+      "Email": "Farxpress@Farxpress.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Eco-Nutraceuticos",
+      "UltimoNome": "",
+      "Email": "Eco-Nutraceuticos@Eco-Nutraceuticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Stada",
+      "UltimoNome": "",
+      "Email": "Stada@Stada.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pc Pharma",
+      "UltimoNome": "",
+      "Email": "PcPharma@PcPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Diverpharma",
+      "UltimoNome": "",
+      "Email": "Diverpharma@Diverpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vitaceutics",
+      "UltimoNome": "",
+      "Email": "Vitaceutics@Vitaceutics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bacelar & Irmão",
+      "UltimoNome": "",
+      "Email": "Bacelar&Irmão@Bacelar&Irmão.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bwizer",
+      "UltimoNome": "",
+      "Email": "Bwizer@Bwizer.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ferrer Portugal",
+      "UltimoNome": "",
+      "Email": "FerrerPortugal@FerrerPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Abbott II Products, Lda.",
+      "UltimoNome": "",
+      "Email": "AbbottIIProducts,Lda.@AbbottIIProducts,Lda..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Henry Pharma",
+      "UltimoNome": "",
+      "Email": "HenryPharma@HenryPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "APOTEKA",
+      "UltimoNome": "",
+      "Email": "APOTEKA@APOTEKA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DS Portugal",
+      "UltimoNome": "",
+      "Email": "DSPortugal@DSPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Interorto",
+      "UltimoNome": "",
+      "Email": "Interorto@Interorto.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Buggypower Shared",
+      "UltimoNome": "",
+      "Email": "BuggypowerShared@BuggypowerShared.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Zurc e Etraud",
+      "UltimoNome": "",
+      "Email": "ZurceEtraud@ZurceEtraud.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Greenmed",
+      "UltimoNome": "",
+      "Email": "Greenmed@Greenmed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Araújo Maia",
+      "UltimoNome": "",
+      "Email": "AraújoMaia@AraújoMaia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TOWA PHARMA",
+      "UltimoNome": "",
+      "Email": "TOWAPHARMA@TOWAPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Angelini",
+      "UltimoNome": "",
+      "Email": "Angelini@Angelini.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Brill Pharma",
+      "UltimoNome": "",
+      "Email": "BrillPharma@BrillPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Diética",
+      "UltimoNome": "",
+      "Email": "Diética@Diética.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermoteca (General Topics)",
+      "UltimoNome": "",
+      "Email": "Dermoteca(GeneralTopics)@Dermoteca(GeneralTopics).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Théa",
+      "UltimoNome": "",
+      "Email": "Théa@Théa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOFARMOZ",
+      "UltimoNome": "",
+      "Email": "BIOFARMOZ@BIOFARMOZ.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ESSENTIAL PHARMA",
+      "UltimoNome": "",
+      "Email": "ESSENTIALPHARMA@ESSENTIALPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "OXMED",
+      "UltimoNome": "",
+      "Email": "OXMED@OXMED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MERZ",
+      "UltimoNome": "",
+      "Email": "MERZ@MERZ.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lasphar",
+      "UltimoNome": "",
+      "Email": "Lasphar@Lasphar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Rottapharm Madaus Portugal",
+      "UltimoNome": "",
+      "Email": "RottapharmMadausPortugal@RottapharmMadausPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Expansão York",
+      "UltimoNome": "",
+      "Email": "ExpansãoYork@ExpansãoYork.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Beauty Trend",
+      "UltimoNome": "",
+      "Email": "BeautyTrend@BeautyTrend.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermis",
+      "UltimoNome": "",
+      "Email": "Dermis@Dermis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "COLGATE",
+      "UltimoNome": "",
+      "Email": "COLGATE@COLGATE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Arkopharma",
+      "UltimoNome": "",
+      "Email": "Arkopharma@Arkopharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Worldrugs",
+      "UltimoNome": "",
+      "Email": "Worldrugs@Worldrugs.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Smart Inovation",
+      "UltimoNome": "",
+      "Email": "SmartInovation@SmartInovation.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sofex",
+      "UltimoNome": "",
+      "Email": "Sofex@Sofex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biorganic Living",
+      "UltimoNome": "",
+      "Email": "BiorganicLiving@BiorganicLiving.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NODEN PHARMA",
+      "UltimoNome": "",
+      "Email": "NODENPHARMA@NODENPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmisuave",
+      "UltimoNome": "",
+      "Email": "Farmisuave@Farmisuave.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NESTLE PORTUGAL",
+      "UltimoNome": "",
+      "Email": "NESTLEPORTUGAL@NESTLEPORTUGAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sano",
+      "UltimoNome": "",
+      "Email": "Sano@Sano.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Exeltis",
+      "UltimoNome": "",
+      "Email": "Exeltis@Exeltis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AbbVie",
+      "UltimoNome": "",
+      "Email": "AbbVie@AbbVie.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alimera",
+      "UltimoNome": "",
+      "Email": "Alimera@Alimera.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LECIFARMA",
+      "UltimoNome": "",
+      "Email": "LECIFARMA@LECIFARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ALLIANCE HEALTHCAR",
+      "UltimoNome": "",
+      "Email": "ALLIANCEHEALTHCAR@ALLIANCEHEALTHCAR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Rmz",
+      "UltimoNome": "",
+      "Email": "Rmz@Rmz.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farga",
+      "UltimoNome": "",
+      "Email": "Farga@Farga.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Materfarma",
+      "UltimoNome": "",
+      "Email": "Materfarma@Materfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KARO PHARMA",
+      "UltimoNome": "",
+      "Email": "KAROPHARMA@KAROPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Schering-Plough (Div Orgaon)",
+      "UltimoNome": "",
+      "Email": "Schering-Plough(DivOrgaon)@Schering-Plough(DivOrgaon).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "GP-GENERICOS PORT",
+      "UltimoNome": "",
+      "Email": "GP-GENERICOSPORT@GP-GENERICOSPORT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "EISAI LIMITED",
+      "UltimoNome": "",
+      "Email": "EISAILIMITED@EISAILIMITED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Paracélsia",
+      "UltimoNome": "",
+      "Email": "Paracélsia@Paracélsia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SUBSTIPHARM",
+      "UltimoNome": "",
+      "Email": "SUBSTIPHARM@SUBSTIPHARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lusomedicamenta",
+      "UltimoNome": "",
+      "Email": "Lusomedicamenta@Lusomedicamenta.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Med Trust",
+      "UltimoNome": "",
+      "Email": "MedTrust@MedTrust.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gide Farma",
+      "UltimoNome": "",
+      "Email": "GideFarma@GideFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gerofar",
+      "UltimoNome": "",
+      "Email": "Gerofar@Gerofar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Soquifa",
+      "UltimoNome": "",
+      "Email": "Soquifa@Soquifa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Arixmed",
+      "UltimoNome": "",
+      "Email": "Arixmed@Arixmed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "L' Oreal  Portugal, Lda - La Roche-Posay",
+      "UltimoNome": "",
+      "Email": "L'OrealPortugal,Lda-LaRoche-Posay@L'OrealPortugal,Lda-LaRoche-Posay.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medela Portugal",
+      "UltimoNome": "",
+      "Email": "MedelaPortugal@MedelaPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gameiros",
+      "UltimoNome": "",
+      "Email": "Gameiros@Gameiros.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Celsis",
+      "UltimoNome": "",
+      "Email": "Celsis@Celsis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cederroth",
+      "UltimoNome": "",
+      "Email": "Cederroth@Cederroth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmodiética",
+      "UltimoNome": "",
+      "Email": "Farmodiética@Farmodiética.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lab Caudalie",
+      "UltimoNome": "",
+      "Email": "LabCaudalie@LabCaudalie.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "L' Oreal  Cosmética Activa",
+      "UltimoNome": "",
+      "Email": "L'OrealCosméticaActiva@L'OrealCosméticaActiva.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Confiança",
+      "UltimoNome": "",
+      "Email": "Confiança@Confiança.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "To World HS&S Lda",
+      "UltimoNome": "",
+      "Email": "ToWorldHS&SLda@ToWorldHS&SLda.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Marques & Anthony",
+      "UltimoNome": "",
+      "Email": "Marques&Anthony@Marques&Anthony.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratórios Kin",
+      "UltimoNome": "",
+      "Email": "LaboratóriosKin@LaboratóriosKin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Azentis",
+      "UltimoNome": "",
+      "Email": "Azentis@Azentis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SANOBIA",
+      "UltimoNome": "",
+      "Email": "SANOBIA@SANOBIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Phergal",
+      "UltimoNome": "",
+      "Email": "Phergal@Phergal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Salusfarma",
+      "UltimoNome": "",
+      "Email": "Salusfarma@Salusfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Starling",
+      "UltimoNome": "",
+      "Email": "Starling@Starling.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Epgc",
+      "UltimoNome": "",
+      "Email": "Epgc@Epgc.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Diprofar",
+      "UltimoNome": "",
+      "Email": "Diprofar@Diprofar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "V M Ventura",
+      "UltimoNome": "",
+      "Email": "VMVentura@VMVentura.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TZMO",
+      "UltimoNome": "",
+      "Email": "TZMO@TZMO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novidades Marilisa",
+      "UltimoNome": "",
+      "Email": "NovidadesMarilisa@NovidadesMarilisa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aristo Pharma",
+      "UltimoNome": "",
+      "Email": "AristoPharma@AristoPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pfizer",
+      "UltimoNome": "",
+      "Email": "Pfizer@Pfizer.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bioarga XXI",
+      "UltimoNome": "",
+      "Email": "BioargaXXI@BioargaXXI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "M.S.D.",
+      "UltimoNome": "",
+      "Email": "M.S.D.@M.S.D..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alliande",
+      "UltimoNome": "",
+      "Email": "Alliande@Alliande.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Peroxidos Farma",
+      "UltimoNome": "",
+      "Email": "PeroxidosFarma@PeroxidosFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Delta",
+      "UltimoNome": "",
+      "Email": "Delta@Delta.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHARMASWISS CESKA",
+      "UltimoNome": "",
+      "Email": "PHARMASWISSCESKA@PHARMASWISSCESKA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "OMNICALS PHARMA",
+      "UltimoNome": "",
+      "Email": "OMNICALSPHARMA@OMNICALSPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tedec",
+      "UltimoNome": "",
+      "Email": "Tedec@Tedec.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Welance",
+      "UltimoNome": "",
+      "Email": "Welance@Welance.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Grifols",
+      "UltimoNome": "",
+      "Email": "Grifols@Grifols.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ayres & Albuquerque",
+      "UltimoNome": "",
+      "Email": "Ayres&Albuquerque@Ayres&Albuquerque.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Geofar",
+      "UltimoNome": "",
+      "Email": "Geofar@Geofar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Amgen",
+      "UltimoNome": "",
+      "Email": "Amgen@Amgen.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "JustNat",
+      "UltimoNome": "",
+      "Email": "JustNat@JustNat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "WBM",
+      "UltimoNome": "",
+      "Email": "WBM@WBM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDILINK",
+      "UltimoNome": "",
+      "Email": "MEDILINK@MEDILINK.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Impetus Portugal",
+      "UltimoNome": "",
+      "Email": "ImpetusPortugal@ImpetusPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutricia",
+      "UltimoNome": "",
+      "Email": "Nutricia@Nutricia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jaba Recordati (Divisão Genéricos)",
+      "UltimoNome": "",
+      "Email": "JabaRecordati(DivisãoGenéricos)@JabaRecordati(DivisãoGenéricos).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Codifar",
+      "UltimoNome": "",
+      "Email": "Codifar@Codifar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CPCH",
+      "UltimoNome": "",
+      "Email": "CPCH@CPCH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laurens Cosmetics",
+      "UltimoNome": "",
+      "Email": "LaurensCosmetics@LaurensCosmetics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tecnimede",
+      "UltimoNome": "",
+      "Email": "Tecnimede@Tecnimede.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Zentiva",
+      "UltimoNome": "",
+      "Email": "Zentiva@Zentiva.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sidefarma",
+      "UltimoNome": "",
+      "Email": "Sidefarma@Sidefarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratórios SVR",
+      "UltimoNome": "",
+      "Email": "LaboratóriosSVR@LaboratóriosSVR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Raclac",
+      "UltimoNome": "",
+      "Email": "Raclac@Raclac.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Th Pharma",
+      "UltimoNome": "",
+      "Email": "ThPharma@ThPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ideal Nacs",
+      "UltimoNome": "",
+      "Email": "IdealNacs@IdealNacs.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Warner-Lambert",
+      "UltimoNome": "",
+      "Email": "Warner-Lambert@Warner-Lambert.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novamed",
+      "UltimoNome": "",
+      "Email": "Novamed@Novamed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cantabria Labs",
+      "UltimoNome": "",
+      "Email": "CantabriaLabs@CantabriaLabs.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alfasigma",
+      "UltimoNome": "",
+      "Email": "Alfasigma@Alfasigma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutas",
+      "UltimoNome": "",
+      "Email": "Nutas@Nutas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "INDIVIOR",
+      "UltimoNome": "",
+      "Email": "INDIVIOR@INDIVIOR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ARISTO PHARMA IBER",
+      "UltimoNome": "",
+      "Email": "ARISTOPHARMAIBER@ARISTOPHARMAIBER.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Renova",
+      "UltimoNome": "",
+      "Email": "Renova@Renova.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Higiablue",
+      "UltimoNome": "",
+      "Email": "Higiablue@Higiablue.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alter",
+      "UltimoNome": "",
+      "Email": "Alter@Alter.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ropar",
+      "UltimoNome": "",
+      "Email": "Ropar@Ropar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bioreishi",
+      "UltimoNome": "",
+      "Email": "Bioreishi@Bioreishi.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DR.FALK PHARMA POR",
+      "UltimoNome": "",
+      "Email": "DR.FALKPHARMAPOR@DR.FALKPHARMAPOR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CHEPLAPHARM",
+      "UltimoNome": "",
+      "Email": "CHEPLAPHARM@CHEPLAPHARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Generis",
+      "UltimoNome": "",
+      "Email": "Generis@Generis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Servestec",
+      "UltimoNome": "",
+      "Email": "Servestec@Servestec.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PharmaPlanet",
+      "UltimoNome": "",
+      "Email": "PharmaPlanet@PharmaPlanet.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DECOMED LDA",
+      "UltimoNome": "",
+      "Email": "DECOMEDLDA@DECOMEDLDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PAULO FERR.& SANTO",
+      "UltimoNome": "",
+      "Email": "PAULOFERR.&SANTO@PAULOFERR.&SANTO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tillotts Pharma",
+      "UltimoNome": "",
+      "Email": "TillottsPharma@TillottsPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "EXPOMÉDICA",
+      "UltimoNome": "",
+      "Email": "EXPOMÉDICA@EXPOMÉDICA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NUTRAMINO",
+      "UltimoNome": "",
+      "Email": "NUTRAMINO@NUTRAMINO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Delarom",
+      "UltimoNome": "",
+      "Email": "Delarom@Delarom.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermolusa",
+      "UltimoNome": "",
+      "Email": "Dermolusa@Dermolusa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmakern",
+      "UltimoNome": "",
+      "Email": "Pharmakern@Pharmakern.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Galderma",
+      "UltimoNome": "",
+      "Email": "Galderma@Galderma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Geração 21",
+      "UltimoNome": "",
+      "Email": "Geração21@Geração21.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nal Von Minden",
+      "UltimoNome": "",
+      "Email": "NalVonMinden@NalVonMinden.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHF",
+      "UltimoNome": "",
+      "Email": "PHF@PHF.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Manzoni & Vasconcelos",
+      "UltimoNome": "",
+      "Email": "Manzoni&Vasconcelos@Manzoni&Vasconcelos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cintas Contorno",
+      "UltimoNome": "",
+      "Email": "CintasContorno@CintasContorno.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Codilab",
+      "UltimoNome": "",
+      "Email": "Codilab@Codilab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "VEMEDIA CONS HEALT",
+      "UltimoNome": "",
+      "Email": "VEMEDIACONSHEALT@VEMEDIACONSHEALT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ACCORD HEALTHCARE",
+      "UltimoNome": "",
+      "Email": "ACCORDHEALTHCARE@ACCORDHEALTHCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Health Care International",
+      "UltimoNome": "",
+      "Email": "HealthCareInternational@HealthCareInternational.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PMH-PROD MED HOSP",
+      "UltimoNome": "",
+      "Email": "PMH-PRODMEDHOSP@PMH-PRODMEDHOSP.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Ultramarina",
+      "UltimoNome": "",
+      "Email": "FarmáciaUltramarina@FarmáciaUltramarina.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratórios Leti",
+      "UltimoNome": "",
+      "Email": "LaboratóriosLeti@LaboratóriosLeti.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cosbel",
+      "UltimoNome": "",
+      "Email": "Cosbel@Cosbel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sociedade de Destilação e Comércio",
+      "UltimoNome": "",
+      "Email": "SociedadedeDestilaçãoeComércio@SociedadedeDestilaçãoeComércio.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tetrafarma",
+      "UltimoNome": "",
+      "Email": "Tetrafarma@Tetrafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Santa",
+      "UltimoNome": "",
+      "Email": "Santa@Santa.com",
+      "Password": "892",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Procasa",
+      "UltimoNome": "",
+      "Email": "Procasa@Procasa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fecofar",
+      "UltimoNome": "",
+      "Email": "Fecofar@Fecofar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "M B B",
+      "UltimoNome": "",
+      "Email": "MBB@MBB.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dudentis",
+      "UltimoNome": "",
+      "Email": "Dudentis@Dudentis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medivaris",
+      "UltimoNome": "",
+      "Email": "Medivaris@Medivaris.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Probios",
+      "UltimoNome": "",
+      "Email": "Probios@Probios.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Instituto Galenico",
+      "UltimoNome": "",
+      "Email": "InstitutoGalenico@InstitutoGalenico.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Magcare",
+      "UltimoNome": "",
+      "Email": "Magcare@Magcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Puressentiel",
+      "UltimoNome": "",
+      "Email": "Puressentiel@Puressentiel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IMC Med Cosmetics",
+      "UltimoNome": "",
+      "Email": "IMCMedCosmetics@IMCMedCosmetics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Disfaline",
+      "UltimoNome": "",
+      "Email": "Disfaline@Disfaline.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nupemed",
+      "UltimoNome": "",
+      "Email": "Nupemed@Nupemed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Azarujinha",
+      "UltimoNome": "",
+      "Email": "Azarujinha@Azarujinha.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aliand",
+      "UltimoNome": "",
+      "Email": "Aliand@Aliand.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Prisfar",
+      "UltimoNome": "",
+      "Email": "Prisfar@Prisfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Salusif",
+      "UltimoNome": "",
+      "Email": "Salusif@Salusif.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Parfums & Beauté",
+      "UltimoNome": "",
+      "Email": "Parfums&Beauté@Parfums&Beauté.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alliance Healthcare",
+      "UltimoNome": "",
+      "Email": "AllianceHealthcare@AllianceHealthcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alcon",
+      "UltimoNome": "",
+      "Email": "Alcon@Alcon.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutriprev",
+      "UltimoNome": "",
+      "Email": "Nutriprev@Nutriprev.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TELEFLEX",
+      "UltimoNome": "",
+      "Email": "TELEFLEX@TELEFLEX.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Upfarma",
+      "UltimoNome": "",
+      "Email": "Upfarma@Upfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Firstpharma",
+      "UltimoNome": "",
+      "Email": "Firstpharma@Firstpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bio Sense",
+      "UltimoNome": "",
+      "Email": "BioSense@BioSense.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NTD",
+      "UltimoNome": "",
+      "Email": "NTD@NTD.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KORANGI-PROD.FARMA",
+      "UltimoNome": "",
+      "Email": "KORANGI-PROD.FARMA@KORANGI-PROD.FARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Menarini Diagnostics",
+      "UltimoNome": "",
+      "Email": "MenariniDiagnostics@MenariniDiagnostics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MIKA PHARMA",
+      "UltimoNome": "",
+      "Email": "MIKAPHARMA@MIKAPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "F. Seara",
+      "UltimoNome": "",
+      "Email": "F.Seara@F.Seara.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Profarin",
+      "UltimoNome": "",
+      "Email": "Profarin@Profarin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Labialfarma",
+      "UltimoNome": "",
+      "Email": "Labialfarma@Labialfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHD-Especialidades Farmacêuticas",
+      "UltimoNome": "",
+      "Email": "PHD-EspecialidadesFarmacêuticas@PHD-EspecialidadesFarmacêuticas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Diafarm",
+      "UltimoNome": "",
+      "Email": "Diafarm@Diafarm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TOPRIDGE PHARMA",
+      "UltimoNome": "",
+      "Email": "TOPRIDGEPHARMA@TOPRIDGEPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bene Farmacêutica",
+      "UltimoNome": "",
+      "Email": "BeneFarmacêutica@BeneFarmacêutica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MJS Med",
+      "UltimoNome": "",
+      "Email": "MJSMed@MJSMed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Emergent BioSolutions Portugal, Lda.",
+      "UltimoNome": "",
+      "Email": "EmergentBioSolutionsPortugal,Lda.@EmergentBioSolutionsPortugal,Lda..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bebé Innova",
+      "UltimoNome": "",
+      "Email": "BebéInnova@BebéInnova.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Wise Pharmaceuticals",
+      "UltimoNome": "",
+      "Email": "WisePharmaceuticals@WisePharmaceuticals.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CPMPharma",
+      "UltimoNome": "",
+      "Email": "CPMPharma@CPMPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sacoor Health",
+      "UltimoNome": "",
+      "Email": "SacoorHealth@SacoorHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Reckitt Benckiser Healthcare",
+      "UltimoNome": "",
+      "Email": "ReckittBenckiserHealthcare@ReckittBenckiserHealthcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "OMEDICAMED",
+      "UltimoNome": "",
+      "Email": "OMEDICAMED@OMEDICAMED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Nutrivalor",
+      "UltimoNome": "",
+      "Email": "ITFNutrivalor@ITFNutrivalor.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Prospervita",
+      "UltimoNome": "",
+      "Email": "Prospervita@Prospervita.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutraceuticos Premium",
+      "UltimoNome": "",
+      "Email": "NutraceuticosPremium@NutraceuticosPremium.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "X-Nat",
+      "UltimoNome": "",
+      "Email": "X-Nat@X-Nat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Koken Kor Kosmetik",
+      "UltimoNome": "",
+      "Email": "KokenKorKosmetik@KokenKorKosmetik.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TAW PHARMA",
+      "UltimoNome": "",
+      "Email": "TAWPHARMA@TAWPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Perdigão & Teresa",
+      "UltimoNome": "",
+      "Email": "Perdigão&Teresa@Perdigão&Teresa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Naturais Healthcare - SDG Pharma",
+      "UltimoNome": "",
+      "Email": "NaturaisHealthcare-SDGPharma@NaturaisHealthcare-SDGPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Innov-Cell",
+      "UltimoNome": "",
+      "Email": "Innov-Cell@Innov-Cell.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medibial",
+      "UltimoNome": "",
+      "Email": "Medibial@Medibial.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Roche Diagnósticos",
+      "UltimoNome": "",
+      "Email": "RocheDiagnósticos@RocheDiagnósticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "OM",
+      "UltimoNome": "",
+      "Email": "OM@OM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DANONE NUTRICIA",
+      "UltimoNome": "",
+      "Email": "DANONENUTRICIA@DANONENUTRICIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TILRAY",
+      "UltimoNome": "",
+      "Email": "TILRAY@TILRAY.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pegada Verde",
+      "UltimoNome": "",
+      "Email": "PegadaVerde@PegadaVerde.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutridil",
+      "UltimoNome": "",
+      "Email": "Nutridil@Nutridil.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Imporfar",
+      "UltimoNome": "",
+      "Email": "Imporfar@Imporfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medicinália Cormédica",
+      "UltimoNome": "",
+      "Email": "MedicináliaCormédica@MedicináliaCormédica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lifes2good",
+      "UltimoNome": "",
+      "Email": "Lifes2good@Lifes2good.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kijimea",
+      "UltimoNome": "",
+      "Email": "Kijimea@Kijimea.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IBERLAB",
+      "UltimoNome": "",
+      "Email": "IBERLAB@IBERLAB.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutradvance",
+      "UltimoNome": "",
+      "Email": "Nutradvance@Nutradvance.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Hanes Portugal",
+      "UltimoNome": "",
+      "Email": "HanesPortugal@HanesPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHOENIX LABS",
+      "UltimoNome": "",
+      "Email": "PHOENIXLABS@PHOENIXLABS.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Caldeira & Metelo",
+      "UltimoNome": "",
+      "Email": "Caldeira&Metelo@Caldeira&Metelo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Drugnut",
+      "UltimoNome": "",
+      "Email": "Drugnut@Drugnut.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PLS Pharma",
+      "UltimoNome": "",
+      "Email": "PLSPharma@PLSPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biocodex",
+      "UltimoNome": "",
+      "Email": "Biocodex@Biocodex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Addo Pharm",
+      "UltimoNome": "",
+      "Email": "AddoPharm@AddoPharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Mercafar",
+      "UltimoNome": "",
+      "Email": "Mercafar@Mercafar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farcel Cosmeticos",
+      "UltimoNome": "",
+      "Email": "FarcelCosmeticos@FarcelCosmeticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ezequiel Panão Jorge",
+      "UltimoNome": "",
+      "Email": "EzequielPanãoJorge@EzequielPanãoJorge.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Viva Life",
+      "UltimoNome": "",
+      "Email": "VivaLife@VivaLife.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Palmeiro",
+      "UltimoNome": "",
+      "Email": "Palmeiro@Palmeiro.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "João Cunha Rego",
+      "UltimoNome": "",
+      "Email": "JoãoCunhaRego@JoãoCunhaRego.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sanofi",
+      "UltimoNome": "",
+      "Email": "Sanofi@Sanofi.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MDM PULSE II LDA",
+      "UltimoNome": "",
+      "Email": "MDMPULSEIILDA@MDMPULSEIILDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NEW TEXTILES",
+      "UltimoNome": "",
+      "Email": "NEWTEXTILES@NEWTEXTILES.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cherryplanet",
+      "UltimoNome": "",
+      "Email": "Cherryplanet@Cherryplanet.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Magicpharma",
+      "UltimoNome": "",
+      "Email": "Magicpharma@Magicpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lusiteca",
+      "UltimoNome": "",
+      "Email": "Lusiteca@Lusiteca.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bioksan",
+      "UltimoNome": "",
+      "Email": "Bioksan@Bioksan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NATIPHARMA",
+      "UltimoNome": "",
+      "Email": "NATIPHARMA@NATIPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medinfar CH",
+      "UltimoNome": "",
+      "Email": "MedinfarCH@MedinfarCH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kaps",
+      "UltimoNome": "",
+      "Email": "Kaps@Kaps.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "To World",
+      "UltimoNome": "",
+      "Email": "ToWorld@ToWorld.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Decafarma",
+      "UltimoNome": "",
+      "Email": "Decafarma@Decafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "UCB PHARMA",
+      "UltimoNome": "",
+      "Email": "UCBPHARMA@UCBPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Teprel",
+      "UltimoNome": "",
+      "Email": "Teprel@Teprel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Effik",
+      "UltimoNome": "",
+      "Email": "Effik@Effik.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cosmos",
+      "UltimoNome": "",
+      "Email": "Cosmos@Cosmos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Coty Portuguesa",
+      "UltimoNome": "",
+      "Email": "CotyPortuguesa@CotyPortuguesa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NEURIM",
+      "UltimoNome": "",
+      "Email": "NEURIM@NEURIM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SALUSIF L.P.Q.FARM",
+      "UltimoNome": "",
+      "Email": "SALUSIFL.P.Q.FARM@SALUSIFL.P.Q.FARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratório J. Neves",
+      "UltimoNome": "",
+      "Email": "LaboratórioJ.Neves@LaboratórioJ.Neves.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Xamane",
+      "UltimoNome": "",
+      "Email": "Xamane@Xamane.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NORDIC GROUP B.V",
+      "UltimoNome": "",
+      "Email": "NORDICGROUPB.V@NORDICGROUPB.V.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Soha Sardinia",
+      "UltimoNome": "",
+      "Email": "SohaSardinia@SohaSardinia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Boiron",
+      "UltimoNome": "",
+      "Email": "Boiron@Boiron.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AXONE",
+      "UltimoNome": "",
+      "Email": "AXONE@AXONE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laverde",
+      "UltimoNome": "",
+      "Email": "Laverde@Laverde.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmamel",
+      "UltimoNome": "",
+      "Email": "Pharmamel@Pharmamel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Caramelos Cerdan",
+      "UltimoNome": "",
+      "Email": "CaramelosCerdan@CaramelosCerdan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Hemicare",
+      "UltimoNome": "",
+      "Email": "Hemicare@Hemicare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "UQUIFA",
+      "UltimoNome": "",
+      "Email": "UQUIFA@UQUIFA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farbiowell",
+      "UltimoNome": "",
+      "Email": "Farbiowell@Farbiowell.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sociedade Nacional de Sabões",
+      "UltimoNome": "",
+      "Email": "SociedadeNacionaldeSabões@SociedadeNacionaldeSabões.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jaba Recordati",
+      "UltimoNome": "",
+      "Email": "JabaRecordati@JabaRecordati.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lab Reig Jofre",
+      "UltimoNome": "",
+      "Email": "LabReigJofre@LabReigJofre.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PAUL HARTMANN LDA",
+      "UltimoNome": "",
+      "Email": "PAULHARTMANNLDA@PAULHARTMANNLDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHARMANOVIA",
+      "UltimoNome": "",
+      "Email": "PHARMANOVIA@PHARMANOVIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Daquimed",
+      "UltimoNome": "",
+      "Email": "Daquimed@Daquimed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vaz Pereira",
+      "UltimoNome": "",
+      "Email": "VazPereira@VazPereira.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Almirall Hermal",
+      "UltimoNome": "",
+      "Email": "AlmirallHermal@AlmirallHermal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bluemed",
+      "UltimoNome": "",
+      "Email": "Bluemed@Bluemed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmeva",
+      "UltimoNome": "",
+      "Email": "Pharmeva@Pharmeva.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Grünenthal",
+      "UltimoNome": "",
+      "Email": "Grünenthal@Grünenthal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Inovemed",
+      "UltimoNome": "",
+      "Email": "Inovemed@Inovemed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Enecta",
+      "UltimoNome": "",
+      "Email": "Enecta@Enecta.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bemfar",
+      "UltimoNome": "",
+      "Email": "Bemfar@Bemfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tecnifar CH",
+      "UltimoNome": "",
+      "Email": "TecnifarCH@TecnifarCH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Intendis",
+      "UltimoNome": "",
+      "Email": "Intendis@Intendis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cesam",
+      "UltimoNome": "",
+      "Email": "Cesam@Cesam.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Silfarmaplus",
+      "UltimoNome": "",
+      "Email": "Silfarmaplus@Silfarmaplus.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Diepharmex",
+      "UltimoNome": "",
+      "Email": "Diepharmex@Diepharmex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Edol",
+      "UltimoNome": "",
+      "Email": "Edol@Edol.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farma 1000 / Tecnilor",
+      "UltimoNome": "",
+      "Email": "Farma1000/Tecnilor@Farma1000/Tecnilor.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bioportugal",
+      "UltimoNome": "",
+      "Email": "Bioportugal@Bioportugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOTOP IMPORT EXP",
+      "UltimoNome": "",
+      "Email": "BIOTOPIMPORTEXP@BIOTOPIMPORTEXP.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Abbott",
+      "UltimoNome": "",
+      "Email": "Abbott@Abbott.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Soflorais",
+      "UltimoNome": "",
+      "Email": "Soflorais@Soflorais.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "J Gonçalves Coelho",
+      "UltimoNome": "",
+      "Email": "JGonçalvesCoelho@JGonçalvesCoelho.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ceamed",
+      "UltimoNome": "",
+      "Email": "Ceamed@Ceamed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MeLuna",
+      "UltimoNome": "",
+      "Email": "MeLuna@MeLuna.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Cunha",
+      "UltimoNome": "",
+      "Email": "FarmáciaCunha@FarmáciaCunha.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Queenlabs",
+      "UltimoNome": "",
+      "Email": "Queenlabs@Queenlabs.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sanosenses",
+      "UltimoNome": "",
+      "Email": "Sanosenses@Sanosenses.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Medivida",
+      "UltimoNome": "",
+      "Email": "ITFMedivida@ITFMedivida.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Heart & Mind",
+      "UltimoNome": "",
+      "Email": "Heart&Mind@Heart&Mind.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bayer Diabetes Care",
+      "UltimoNome": "",
+      "Email": "BayerDiabetesCare@BayerDiabetesCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ursapharm",
+      "UltimoNome": "",
+      "Email": "Ursapharm@Ursapharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Janssen-Cilag",
+      "UltimoNome": "",
+      "Email": "Janssen-Cilag@Janssen-Cilag.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Shyma",
+      "UltimoNome": "",
+      "Email": "Shyma@Shyma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lifeboost",
+      "UltimoNome": "",
+      "Email": "Lifeboost@Lifeboost.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LDP TORLAN",
+      "UltimoNome": "",
+      "Email": "LDPTORLAN@LDPTORLAN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ratiopharm",
+      "UltimoNome": "",
+      "Email": "Ratiopharm@Ratiopharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Naos Portugal",
+      "UltimoNome": "",
+      "Email": "NaosPortugal@NaosPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AstraZeneca",
+      "UltimoNome": "",
+      "Email": "AstraZeneca@AstraZeneca.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Velvetmed",
+      "UltimoNome": "",
+      "Email": "Velvetmed@Velvetmed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Inibsa",
+      "UltimoNome": "",
+      "Email": "Inibsa@Inibsa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Phytogold",
+      "UltimoNome": "",
+      "Email": "Phytogold@Phytogold.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lifeway",
+      "UltimoNome": "",
+      "Email": "Lifeway@Lifeway.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dietimport",
+      "UltimoNome": "",
+      "Email": "Dietimport@Dietimport.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cosmoproud",
+      "UltimoNome": "",
+      "Email": "Cosmoproud@Cosmoproud.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lensa",
+      "UltimoNome": "",
+      "Email": "Lensa@Lensa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fartest",
+      "UltimoNome": "",
+      "Email": "Fartest@Fartest.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ortomedifar",
+      "UltimoNome": "",
+      "Email": "Ortomedifar@Ortomedifar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Well Pharma",
+      "UltimoNome": "",
+      "Email": "WellPharma@WellPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Apceuticals",
+      "UltimoNome": "",
+      "Email": "Apceuticals@Apceuticals.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Labnative Portugal",
+      "UltimoNome": "",
+      "Email": "LabnativePortugal@LabnativePortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Taaj Portugal",
+      "UltimoNome": "",
+      "Email": "TaajPortugal@TaajPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Disfalog",
+      "UltimoNome": "",
+      "Email": "Disfalog@Disfalog.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Virya Saúde Natural",
+      "UltimoNome": "",
+      "Email": "ViryaSaúdeNatural@ViryaSaúdeNatural.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farbio",
+      "UltimoNome": "",
+      "Email": "Farbio@Farbio.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ribeiro Simões & Filhos",
+      "UltimoNome": "",
+      "Email": "RibeiroSimões&Filhos@RibeiroSimões&Filhos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BAVARIAN NORDIC",
+      "UltimoNome": "",
+      "Email": "BAVARIANNORDIC@BAVARIANNORDIC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Algicel",
+      "UltimoNome": "",
+      "Email": "Algicel@Algicel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Palácio de Canavezes",
+      "UltimoNome": "",
+      "Email": "PaláciodeCanavezes@PaláciodeCanavezes.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DENK PHARMA",
+      "UltimoNome": "",
+      "Email": "DENKPHARMA@DENKPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "To Skin",
+      "UltimoNome": "",
+      "Email": "ToSkin@ToSkin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LifeScan Portugal",
+      "UltimoNome": "",
+      "Email": "LifeScanPortugal@LifeScanPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ferel",
+      "UltimoNome": "",
+      "Email": "Ferel@Ferel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Takeda",
+      "UltimoNome": "",
+      "Email": "Takeda@Takeda.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Naturalmente Bebé",
+      "UltimoNome": "",
+      "Email": "NaturalmenteBebé@NaturalmenteBebé.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "B.BRAUN MEDICAL",
+      "UltimoNome": "",
+      "Email": "B.BRAUNMEDICAL@B.BRAUNMEDICAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Med-Beat",
+      "UltimoNome": "",
+      "Email": "Med-Beat@Med-Beat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Confar",
+      "UltimoNome": "",
+      "Email": "Confar@Confar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Andre",
+      "UltimoNome": "Lopes",
+      "Email": "andre",
+      "Password": "123",
+      "Papel": "Farmaceutico"
+    },
+    {
+      "PrimeiroNome": "Farmácia Confiança",
+      "UltimoNome": "",
+      "Email": "FarmáciaConfiança@FarmáciaConfiança.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vitamininspire",
+      "UltimoNome": "",
+      "Email": "Vitamininspire@Vitamininspire.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Euro Orto",
+      "UltimoNome": "",
+      "Email": "EuroOrto@EuroOrto.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pierre Fabre Consumer Health Care",
+      "UltimoNome": "",
+      "Email": "PierreFabreConsumerHealthCare@PierreFabreConsumerHealthCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jlfl Medical",
+      "UltimoNome": "",
+      "Email": "JlflMedical@JlflMedical.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Stiefel",
+      "UltimoNome": "",
+      "Email": "Stiefel@Stiefel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biowise",
+      "UltimoNome": "",
+      "Email": "Biowise@Biowise.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "D'Ar Saúde",
+      "UltimoNome": "",
+      "Email": "D'ArSaúde@D'ArSaúde.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sarbec",
+      "UltimoNome": "",
+      "Email": "Sarbec@Sarbec.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Crefar",
+      "UltimoNome": "",
+      "Email": "Crefar@Crefar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Internacional Área",
+      "UltimoNome": "",
+      "Email": "InternacionalÁrea@InternacionalÁrea.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CPH",
+      "UltimoNome": "",
+      "Email": "CPH@CPH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Rubeaspharma",
+      "UltimoNome": "",
+      "Email": "Rubeaspharma@Rubeaspharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Previteste",
+      "UltimoNome": "",
+      "Email": "Previteste@Previteste.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Levigal",
+      "UltimoNome": "",
+      "Email": "Levigal@Levigal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ACON LABORATORIES",
+      "UltimoNome": "",
+      "Email": "ACONLABORATORIES@ACONLABORATORIES.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Targetway",
+      "UltimoNome": "",
+      "Email": "Targetway@Targetway.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LUSO HELVETICA",
+      "UltimoNome": "",
+      "Email": "LUSOHELVETICA@LUSOHELVETICA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "InterBial",
+      "UltimoNome": "",
+      "Email": "InterBial@InterBial.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fleurance Nature",
+      "UltimoNome": "",
+      "Email": "FleuranceNature@FleuranceNature.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Orbidiet",
+      "UltimoNome": "",
+      "Email": "Orbidiet@Orbidiet.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "EUMEDICA N.V.",
+      "UltimoNome": "",
+      "Email": "EUMEDICAN.V.@EUMEDICAN.V..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IncaRose",
+      "UltimoNome": "",
+      "Email": "IncaRose@IncaRose.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fagron",
+      "UltimoNome": "",
+      "Email": "Fagron@Fagron.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Papillon Cosmetic",
+      "UltimoNome": "",
+      "Email": "PapillonCosmetic@PapillonCosmetic.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Noreva",
+      "UltimoNome": "",
+      "Email": "Noreva@Noreva.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Couto",
+      "UltimoNome": "",
+      "Email": "Couto@Couto.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IMMEDICA PHARMA AB",
+      "UltimoNome": "",
+      "Email": "IMMEDICAPHARMAAB@IMMEDICAPHARMAAB.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ach. Brito",
+      "UltimoNome": "",
+      "Email": "Ach.Brito@Ach.Brito.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AMDIPHARM",
+      "UltimoNome": "",
+      "Email": "AMDIPHARM@AMDIPHARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ergivit",
+      "UltimoNome": "",
+      "Email": "Ergivit@Ergivit.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CPCH-COMP PORT CH",
+      "UltimoNome": "",
+      "Email": "CPCH-COMPPORTCH@CPCH-COMPPORTCH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Albino Dias de Andrade",
+      "UltimoNome": "",
+      "Email": "AlbinoDiasdeAndrade@AlbinoDiasdeAndrade.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Uriach",
+      "UltimoNome": "",
+      "Email": "Uriach@Uriach.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Paul Hartmann",
+      "UltimoNome": "",
+      "Email": "PaulHartmann@PaulHartmann.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutricion Center",
+      "UltimoNome": "",
+      "Email": "NutricionCenter@NutricionCenter.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Exelderma",
+      "UltimoNome": "",
+      "Email": "Exelderma@Exelderma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Angelsbehavior",
+      "UltimoNome": "",
+      "Email": "Angelsbehavior@Angelsbehavior.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Decomed",
+      "UltimoNome": "",
+      "Email": "Decomed@Decomed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Trade Medic",
+      "UltimoNome": "",
+      "Email": "TradeMedic@TradeMedic.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kosmokausa",
+      "UltimoNome": "",
+      "Email": "Kosmokausa@Kosmokausa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pranarom",
+      "UltimoNome": "",
+      "Email": "Pranarom@Pranarom.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sparmedix",
+      "UltimoNome": "",
+      "Email": "Sparmedix@Sparmedix.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nestlé Portugal",
+      "UltimoNome": "",
+      "Email": "NestléPortugal@NestléPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Horizane",
+      "UltimoNome": "",
+      "Email": "Horizane@Horizane.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Termalistur",
+      "UltimoNome": "",
+      "Email": "Termalistur@Termalistur.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Urgo",
+      "UltimoNome": "",
+      "Email": "Urgo@Urgo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AlchemLife",
+      "UltimoNome": "",
+      "Email": "AlchemLife@AlchemLife.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IPCA PROD FARMAC",
+      "UltimoNome": "",
+      "Email": "IPCAPRODFARMAC@IPCAPRODFARMAC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dietlab",
+      "UltimoNome": "",
+      "Email": "Dietlab@Dietlab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Mundial",
+      "UltimoNome": "",
+      "Email": "Mundial@Mundial.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bluepharma",
+      "UltimoNome": "",
+      "Email": "Bluepharma@Bluepharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LUSITANIA SOLUCOES",
+      "UltimoNome": "",
+      "Email": "LUSITANIASOLUCOES@LUSITANIASOLUCOES.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Merck, S.A.",
+      "UltimoNome": "",
+      "Email": "Merck,S.A.@Merck,S.A..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PharmaOne",
+      "UltimoNome": "",
+      "Email": "PharmaOne@PharmaOne.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "VIFOR PHARMA",
+      "UltimoNome": "",
+      "Email": "VIFORPHARMA@VIFORPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Safe Travel",
+      "UltimoNome": "",
+      "Email": "SafeTravel@SafeTravel.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jalber",
+      "UltimoNome": "",
+      "Email": "Jalber@Jalber.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermofarm",
+      "UltimoNome": "",
+      "Email": "Dermofarm@Dermofarm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pfizer Consumer Healthcare",
+      "UltimoNome": "",
+      "Email": "PfizerConsumerHealthcare@PfizerConsumerHealthcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Mead Johnson Nutrition",
+      "UltimoNome": "",
+      "Email": "MeadJohnsonNutrition@MeadJohnsonNutrition.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Foz Cosméticos",
+      "UltimoNome": "",
+      "Email": "FozCosméticos@FozCosméticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SALUTEC",
+      "UltimoNome": "",
+      "Email": "SALUTEC@SALUTEC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Hsa Cosmetics",
+      "UltimoNome": "",
+      "Email": "HsaCosmetics@HsaCosmetics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aneid",
+      "UltimoNome": "",
+      "Email": "Aneid@Aneid.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PLMM",
+      "UltimoNome": "",
+      "Email": "PLMM@PLMM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gentleskin",
+      "UltimoNome": "",
+      "Email": "Gentleskin@Gentleskin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bliss",
+      "UltimoNome": "",
+      "Email": "Bliss@Bliss.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDICAMED",
+      "UltimoNome": "",
+      "Email": "MEDICAMED@MEDICAMED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SPCare",
+      "UltimoNome": "",
+      "Email": "SPCare@SPCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratórios Casen-Fleet Portugal",
+      "UltimoNome": "",
+      "Email": "LaboratóriosCasen-FleetPortugal@LaboratóriosCasen-FleetPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dietmed",
+      "UltimoNome": "",
+      "Email": "Dietmed@Dietmed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Elbia Pharma",
+      "UltimoNome": "",
+      "Email": "ElbiaPharma@ElbiaPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmatrading",
+      "UltimoNome": "",
+      "Email": "Farmatrading@Farmatrading.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Juzo",
+      "UltimoNome": "",
+      "Email": "Juzo@Juzo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CIPLA EUROPE N.V.",
+      "UltimoNome": "",
+      "Email": "CIPLAEUROPEN.V.@CIPLAEUROPEN.V..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Walking Sticks",
+      "UltimoNome": "",
+      "Email": "WalkingSticks@WalkingSticks.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Raúl Vieira",
+      "UltimoNome": "",
+      "Email": "RaúlVieira@RaúlVieira.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDILUSA",
+      "UltimoNome": "",
+      "Email": "MEDILUSA@MEDILUSA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "J.M.V.",
+      "UltimoNome": "",
+      "Email": "J.M.V.@J.M.V..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Inspire Healthcare",
+      "UltimoNome": "",
+      "Email": "InspireHealthcare@InspireHealthcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SK Skin",
+      "UltimoNome": "",
+      "Email": "SKSkin@SKSkin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sandoz",
+      "UltimoNome": "",
+      "Email": "Sandoz@Sandoz.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KVTECH",
+      "UltimoNome": "",
+      "Email": "KVTECH@KVTECH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novo Nordisk",
+      "UltimoNome": "",
+      "Email": "NovoNordisk@NovoNordisk.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Essence",
+      "UltimoNome": "",
+      "Email": "Essence@Essence.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Milupa",
+      "UltimoNome": "",
+      "Email": "Milupa@Milupa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dilofar",
+      "UltimoNome": "",
+      "Email": "Dilofar@Dilofar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ISDIN PORTUGAL",
+      "UltimoNome": "",
+      "Email": "ISDINPORTUGAL@ISDINPORTUGAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dieticare",
+      "UltimoNome": "",
+      "Email": "Dieticare@Dieticare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "J.M.  Farmacêutica",
+      "UltimoNome": "",
+      "Email": "J.M.Farmacêutica@J.M.Farmacêutica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medirex",
+      "UltimoNome": "",
+      "Email": "Medirex@Medirex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "3AZFarma",
+      "UltimoNome": "",
+      "Email": "3AZFarma@3AZFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Adicionavita",
+      "UltimoNome": "",
+      "Email": "Adicionavita@Adicionavita.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Natiris",
+      "UltimoNome": "",
+      "Email": "Natiris@Natiris.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Homeopática",
+      "UltimoNome": "",
+      "Email": "FarmáciaHomeopática@FarmáciaHomeopática.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Almirall",
+      "UltimoNome": "",
+      "Email": "Almirall@Almirall.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Valeant",
+      "UltimoNome": "",
+      "Email": "Valeant@Valeant.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Empifarma",
+      "UltimoNome": "",
+      "Email": "Empifarma@Empifarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biotop",
+      "UltimoNome": "",
+      "Email": "Biotop@Biotop.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BSG PHARMACEUTICAL",
+      "UltimoNome": "",
+      "Email": "BSGPHARMACEUTICAL@BSGPHARMACEUTICAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ALODIAL",
+      "UltimoNome": "",
+      "Email": "ALODIAL@ALODIAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Esteriplas",
+      "UltimoNome": "",
+      "Email": "Esteriplas@Esteriplas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NUTRIFLOR",
+      "UltimoNome": "",
+      "Email": "NUTRIFLOR@NUTRIFLOR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Mundo Mercantil",
+      "UltimoNome": "",
+      "Email": "MundoMercantil@MundoMercantil.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "HASSELDA",
+      "UltimoNome": "",
+      "Email": "HASSELDA@HASSELDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Grimextur",
+      "UltimoNome": "",
+      "Email": "Grimextur@Grimextur.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novofarma",
+      "UltimoNome": "",
+      "Email": "Novofarma@Novofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmoz",
+      "UltimoNome": "",
+      "Email": "Farmoz@Farmoz.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cvifa",
+      "UltimoNome": "",
+      "Email": "Cvifa@Cvifa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Daiichi Sankyo",
+      "UltimoNome": "",
+      "Email": "DaiichiSankyo@DaiichiSankyo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Inneov",
+      "UltimoNome": "",
+      "Email": "Inneov@Inneov.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kozmodrome",
+      "UltimoNome": "",
+      "Email": "Kozmodrome@Kozmodrome.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Johnson's Wax",
+      "UltimoNome": "",
+      "Email": "Johnson'sWax@Johnson'sWax.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ferring",
+      "UltimoNome": "",
+      "Email": "Ferring@Ferring.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Indas Portugal",
+      "UltimoNome": "",
+      "Email": "IndasPortugal@IndasPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FarmaXMP",
+      "UltimoNome": "",
+      "Email": "FarmaXMP@FarmaXMP.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LGP",
+      "UltimoNome": "",
+      "Email": "LGP@LGP.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lacer",
+      "UltimoNome": "",
+      "Email": "Lacer@Lacer.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Natus",
+      "UltimoNome": "",
+      "Email": "Natus@Natus.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ROCHE FARM.QUIMICA",
+      "UltimoNome": "",
+      "Email": "ROCHEFARM.QUIMICA@ROCHEFARM.QUIMICA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ORION",
+      "UltimoNome": "",
+      "Email": "ORION@ORION.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Esteve Portugal",
+      "UltimoNome": "",
+      "Email": "EstevePortugal@EstevePortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kvtech Portugal",
+      "UltimoNome": "",
+      "Email": "KvtechPortugal@KvtechPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Faribérica",
+      "UltimoNome": "",
+      "Email": "Faribérica@Faribérica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "B. A. Farma",
+      "UltimoNome": "",
+      "Email": "B.A.Farma@B.A.Farma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alida Castro",
+      "UltimoNome": "",
+      "Email": "AlidaCastro@AlidaCastro.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Isdin",
+      "UltimoNome": "",
+      "Email": "Isdin@Isdin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bialfar",
+      "UltimoNome": "",
+      "Email": "Bialfar@Bialfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "José Manuel Gomes Santos",
+      "UltimoNome": "",
+      "Email": "JoséManuelGomesSantos@JoséManuelGomesSantos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Logifarma",
+      "UltimoNome": "",
+      "Email": "Logifarma@Logifarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AGA",
+      "UltimoNome": "",
+      "Email": "AGA@AGA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Colgate Palmolive, Unipessoal",
+      "UltimoNome": "",
+      "Email": "ColgatePalmolive,Unipessoal@ColgatePalmolive,Unipessoal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Barata Aires & Almeida - Panfarma",
+      "UltimoNome": "",
+      "Email": "BarataAires&Almeida-Panfarma@BarataAires&Almeida-Panfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Prim",
+      "UltimoNome": "",
+      "Email": "Prim@Prim.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LifeWell",
+      "UltimoNome": "",
+      "Email": "LifeWell@LifeWell.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ASCENSIA DIABETES",
+      "UltimoNome": "",
+      "Email": "ASCENSIADIABETES@ASCENSIADIABETES.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tudobello",
+      "UltimoNome": "",
+      "Email": "Tudobello@Tudobello.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nuxe",
+      "UltimoNome": "",
+      "Email": "Nuxe@Nuxe.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tecnimede CHC",
+      "UltimoNome": "",
+      "Email": "TecnimedeCHC@TecnimedeCHC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ant. Pac. Agostinho (3M-Riker)",
+      "UltimoNome": "",
+      "Email": "Ant.Pac.Agostinho(3M-Riker)@Ant.Pac.Agostinho(3M-Riker).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farma SOS",
+      "UltimoNome": "",
+      "Email": "FarmaSOS@FarmaSOS.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lopha",
+      "UltimoNome": "",
+      "Email": "Lopha@Lopha.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BSG Pharmaceuticals",
+      "UltimoNome": "",
+      "Email": "BSGPharmaceuticals@BSGPharmaceuticals.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "RXEDY HEALTHCARE",
+      "UltimoNome": "",
+      "Email": "RXEDYHEALTHCARE@RXEDYHEALTHCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Baldacci",
+      "UltimoNome": "",
+      "Email": "Baldacci@Baldacci.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CRISIFARMA",
+      "UltimoNome": "",
+      "Email": "CRISIFARMA@CRISIFARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Maria Teresa & Proença",
+      "UltimoNome": "",
+      "Email": "MariaTeresa&Proença@MariaTeresa&Proença.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MOSKOUT",
+      "UltimoNome": "",
+      "Email": "MOSKOUT@MOSKOUT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cosmética Activa",
+      "UltimoNome": "",
+      "Email": "CosméticaActiva@CosméticaActiva.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Salus2Be",
+      "UltimoNome": "",
+      "Email": "Salus2Be@Salus2Be.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Visão Aberta",
+      "UltimoNome": "",
+      "Email": "VisãoAberta@VisãoAberta.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sesderma Portugal",
+      "UltimoNome": "",
+      "Email": "SesdermaPortugal@SesdermaPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Progresso",
+      "UltimoNome": "",
+      "Email": "Progresso@Progresso.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nubiola II",
+      "UltimoNome": "",
+      "Email": "NubiolaII@NubiolaII.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Skinfar",
+      "UltimoNome": "",
+      "Email": "Skinfar@Skinfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Evaux Portugal",
+      "UltimoNome": "",
+      "Email": "EvauxPortugal@EvauxPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "EUROMEDICINES   >>",
+      "UltimoNome": "",
+      "Email": "EUROMEDICINES>>@EUROMEDICINES>>.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SMITH NEPHEW",
+      "UltimoNome": "",
+      "Email": "SMITHNEPHEW@SMITHNEPHEW.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Solmirco",
+      "UltimoNome": "",
+      "Email": "Solmirco@Solmirco.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bayer Portugal - Dermatologia",
+      "UltimoNome": "",
+      "Email": "BayerPortugal-Dermatologia@BayerPortugal-Dermatologia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Disfaport",
+      "UltimoNome": "",
+      "Email": "Disfaport@Disfaport.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Empresa Figueirense de Pesca",
+      "UltimoNome": "",
+      "Email": "EmpresaFigueirensedePesca@EmpresaFigueirensedePesca.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "HRA PHARMA",
+      "UltimoNome": "",
+      "Email": "HRAPHARMA@HRAPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dalipharma",
+      "UltimoNome": "",
+      "Email": "Dalipharma@Dalipharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aurelius",
+      "UltimoNome": "",
+      "Email": "Aurelius@Aurelius.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LUIS ARROJO",
+      "UltimoNome": "",
+      "Email": "LUISARROJO@LUISARROJO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novartis",
+      "UltimoNome": "",
+      "Email": "Novartis@Novartis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dna Pharma",
+      "UltimoNome": "",
+      "Email": "DnaPharma@DnaPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Adventia",
+      "UltimoNome": "",
+      "Email": "Adventia@Adventia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farlab",
+      "UltimoNome": "",
+      "Email": "Farlab@Farlab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Yatsen",
+      "UltimoNome": "",
+      "Email": "Yatsen@Yatsen.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Xuderma",
+      "UltimoNome": "",
+      "Email": "Xuderma@Xuderma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BEIERSDORF PORTUGU",
+      "UltimoNome": "",
+      "Email": "BEIERSDORFPORTUGU@BEIERSDORFPORTUGU.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lusofarma",
+      "UltimoNome": "",
+      "Email": "Lusofarma@Lusofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PROCTER & GAMBLE",
+      "UltimoNome": "",
+      "Email": "PROCTER&GAMBLE@PROCTER&GAMBLE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farcom",
+      "UltimoNome": "",
+      "Email": "Farcom@Farcom.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOPHARM",
+      "UltimoNome": "",
+      "Email": "BIOPHARM@BIOPHARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farma APS",
+      "UltimoNome": "",
+      "Email": "FarmaAPS@FarmaAPS.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Molnlycke Health Care",
+      "UltimoNome": "",
+      "Email": "MolnlyckeHealthCare@MolnlyckeHealthCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LIFE SCAN",
+      "UltimoNome": "",
+      "Email": "LIFESCAN@LIFESCAN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Delk Pharma",
+      "UltimoNome": "",
+      "Email": "DelkPharma@DelkPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tatoomed",
+      "UltimoNome": "",
+      "Email": "Tatoomed@Tatoomed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Babueco",
+      "UltimoNome": "",
+      "Email": "Babueco@Babueco.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dux Pharma",
+      "UltimoNome": "",
+      "Email": "DuxPharma@DuxPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Astellas",
+      "UltimoNome": "",
+      "Email": "Astellas@Astellas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Coloplast",
+      "UltimoNome": "",
+      "Email": "Coloplast@Coloplast.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDOCHEMIE",
+      "UltimoNome": "",
+      "Email": "MEDOCHEMIE@MEDOCHEMIE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bdrpharma",
+      "UltimoNome": "",
+      "Email": "Bdrpharma@Bdrpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermoteca ( Laboratórios Otc Ibérica)",
+      "UltimoNome": "",
+      "Email": "Dermoteca(LaboratóriosOtcIbérica)@Dermoteca(LaboratóriosOtcIbérica).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MERUS LABS LUXCO",
+      "UltimoNome": "",
+      "Email": "MERUSLABSLUXCO@MERUSLABSLUXCO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Distrifa",
+      "UltimoNome": "",
+      "Email": "Distrifa@Distrifa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farma MT",
+      "UltimoNome": "",
+      "Email": "FarmaMT@FarmaMT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "P&G",
+      "UltimoNome": "",
+      "Email": "P&G@P&G.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DIFARMED",
+      "UltimoNome": "",
+      "Email": "DIFARMED@DIFARMED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmagreen",
+      "UltimoNome": "",
+      "Email": "Pharmagreen@Pharmagreen.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharway",
+      "UltimoNome": "",
+      "Email": "Pharway@Pharway.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Leite de Colónia",
+      "UltimoNome": "",
+      "Email": "LeitedeColónia@LeitedeColónia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Moreno II",
+      "UltimoNome": "",
+      "Email": "MorenoII@MorenoII.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LABORATORIOS SERB",
+      "UltimoNome": "",
+      "Email": "LABORATORIOSSERB@LABORATORIOSSERB.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Brito",
+      "UltimoNome": "",
+      "Email": "FarmáciaBrito@FarmáciaBrito.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Galia",
+      "UltimoNome": "",
+      "Email": "Galia@Galia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CGA",
+      "UltimoNome": "",
+      "Email": "CGA@CGA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Italfarmaco",
+      "UltimoNome": "",
+      "Email": "Italfarmaco@Italfarmaco.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutrigood",
+      "UltimoNome": "",
+      "Email": "Nutrigood@Nutrigood.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Germed",
+      "UltimoNome": "",
+      "Email": "Germed@Germed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Macedo",
+      "UltimoNome": "",
+      "Email": "FarmáciaMacedo@FarmáciaMacedo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Martiderm Portugal",
+      "UltimoNome": "",
+      "Email": "MartidermPortugal@MartidermPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ORGANON PORTUGUESA",
+      "UltimoNome": "",
+      "Email": "ORGANONPORTUGUESA@ORGANONPORTUGUESA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Holon",
+      "UltimoNome": "",
+      "Email": "Holon@Holon.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bigfarma",
+      "UltimoNome": "",
+      "Email": "Bigfarma@Bigfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "GSL",
+      "UltimoNome": "",
+      "Email": "GSL@GSL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "WWO",
+      "UltimoNome": "",
+      "Email": "WWO@WWO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Atral -Cipan",
+      "UltimoNome": "",
+      "Email": "Atral-Cipan@Atral-Cipan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MONSANTO PORTUGAL",
+      "UltimoNome": "",
+      "Email": "MONSANTOPORTUGAL@MONSANTOPORTUGAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Humana",
+      "UltimoNome": "",
+      "Email": "Humana@Humana.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SKPM",
+      "UltimoNome": "",
+      "Email": "SKPM@SKPM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Saninter Grupo",
+      "UltimoNome": "",
+      "Email": "SaninterGrupo@SaninterGrupo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Disop Portugal",
+      "UltimoNome": "",
+      "Email": "DisopPortugal@DisopPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharma +",
+      "UltimoNome": "",
+      "Email": "Pharma+@Pharma+.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Neh Company",
+      "UltimoNome": "",
+      "Email": "NehCompany@NehCompany.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NORIT NEDERLAND BV",
+      "UltimoNome": "",
+      "Email": "NORITNEDERLANDBV@NORITNEDERLANDBV.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vencilab",
+      "UltimoNome": "",
+      "Email": "Vencilab@Vencilab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmadismo",
+      "UltimoNome": "",
+      "Email": "Farmadismo@Farmadismo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "STARGATE NUTRA",
+      "UltimoNome": "",
+      "Email": "STARGATENUTRA@STARGATENUTRA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ALK-ABELLO A/S",
+      "UltimoNome": "",
+      "Email": "ALK-ABELLOA/S@ALK-ABELLOA/S.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Hydrafarma",
+      "UltimoNome": "",
+      "Email": "Hydrafarma@Hydrafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bio Nated",
+      "UltimoNome": "",
+      "Email": "BioNated@BioNated.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cuidafarma",
+      "UltimoNome": "",
+      "Email": "Cuidafarma@Cuidafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDAC PORTUGAL",
+      "UltimoNome": "",
+      "Email": "MEDACPORTUGAL@MEDACPORTUGAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IF Produtos Farmacêuticos",
+      "UltimoNome": "",
+      "Email": "IFProdutosFarmacêuticos@IFProdutosFarmacêuticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "GM",
+      "UltimoNome": "",
+      "Email": "GM@GM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medi Bayreuth",
+      "UltimoNome": "",
+      "Email": "MediBayreuth@MediBayreuth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "RAFARM",
+      "UltimoNome": "",
+      "Email": "RAFARM@RAFARM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermoteca (Lab. Coryne De Bruynes)",
+      "UltimoNome": "",
+      "Email": "Dermoteca(Lab.CoryneDeBruynes)@Dermoteca(Lab.CoryneDeBruynes).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "GlaxoSmithKline",
+      "UltimoNome": "",
+      "Email": "GlaxoSmithKline@GlaxoSmithKline.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Johnson & Johnson",
+      "UltimoNome": "",
+      "Email": "Johnson&Johnson@Johnson&Johnson.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Prestifarma",
+      "UltimoNome": "",
+      "Email": "Prestifarma@Prestifarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "EXPOMEDICA",
+      "UltimoNome": "",
+      "Email": "EXPOMEDICA@EXPOMEDICA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Chefaro",
+      "UltimoNome": "",
+      "Email": "Chefaro@Chefaro.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gedeon Richter",
+      "UltimoNome": "",
+      "Email": "GedeonRichter@GedeonRichter.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Green Family",
+      "UltimoNome": "",
+      "Email": "GreenFamily@GreenFamily.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Faes Farma",
+      "UltimoNome": "",
+      "Email": "FaesFarma@FaesFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fresenius Kabi",
+      "UltimoNome": "",
+      "Email": "FreseniusKabi@FreseniusKabi.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "2M Pharma",
+      "UltimoNome": "",
+      "Email": "2MPharma@2MPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "L' Oreal  Portugal",
+      "UltimoNome": "",
+      "Email": "L'OrealPortugal@L'OrealPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jordan",
+      "UltimoNome": "",
+      "Email": "Jordan@Jordan.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratoires Bailleul",
+      "UltimoNome": "",
+      "Email": "LaboratoiresBailleul@LaboratoiresBailleul.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ABBOTT DIABET CARE",
+      "UltimoNome": "",
+      "Email": "ABBOTTDIABETCARE@ABBOTTDIABETCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Davi II",
+      "UltimoNome": "",
+      "Email": "DaviII@DaviII.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "3M",
+      "UltimoNome": "",
+      "Email": "3M@3M.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ideiafarma",
+      "UltimoNome": "",
+      "Email": "Ideiafarma@Ideiafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Carolino Ferreira & Maria",
+      "UltimoNome": "",
+      "Email": "CarolinoFerreira&Maria@CarolinoFerreira&Maria.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Medialfarma",
+      "UltimoNome": "",
+      "Email": "ITFMedialfarma@ITFMedialfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOWISE PHARMACEUT",
+      "UltimoNome": "",
+      "Email": "BIOWISEPHARMACEUT@BIOWISEPHARMACEUT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tilman",
+      "UltimoNome": "",
+      "Email": "Tilman@Tilman.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "F. J. Campos",
+      "UltimoNome": "",
+      "Email": "F.J.Campos@F.J.Campos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nutralux",
+      "UltimoNome": "",
+      "Email": "Nutralux@Nutralux.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ALTER FARMACIA",
+      "UltimoNome": "",
+      "Email": "ALTERFARMACIA@ALTERFARMACIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BAXTER MED.FAR.LDA",
+      "UltimoNome": "",
+      "Email": "BAXTERMED.FAR.LDA@BAXTERMED.FAR.LDA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bausch & Lomb",
+      "UltimoNome": "",
+      "Email": "Bausch&Lomb@Bausch&Lomb.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Orthos XXI",
+      "UltimoNome": "",
+      "Email": "OrthosXXI@OrthosXXI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Luzofarma",
+      "UltimoNome": "",
+      "Email": "Luzofarma@Luzofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOPERFIL",
+      "UltimoNome": "",
+      "Email": "BIOPERFIL@BIOPERFIL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Schering-Plough",
+      "UltimoNome": "",
+      "Email": "Schering-Plough@Schering-Plough.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sanofi - Consumer Health Care",
+      "UltimoNome": "",
+      "Email": "Sanofi-ConsumerHealthCare@Sanofi-ConsumerHealthCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SURGICALEURO",
+      "UltimoNome": "",
+      "Email": "SURGICALEURO@SURGICALEURO.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Portela - Comércio",
+      "UltimoNome": "",
+      "Email": "Portela-Comércio@Portela-Comércio.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DOUBLE-E PHARMA",
+      "UltimoNome": "",
+      "Email": "DOUBLE-EPHARMA@DOUBLE-EPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Clamantpharm",
+      "UltimoNome": "",
+      "Email": "Clamantpharm@Clamantpharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Viatris",
+      "UltimoNome": "",
+      "Email": "Viatris@Viatris.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Distrilab",
+      "UltimoNome": "",
+      "Email": "Distrilab@Distrilab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Oxygen Pharma",
+      "UltimoNome": "",
+      "Email": "OxygenPharma@OxygenPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Britos",
+      "UltimoNome": "",
+      "Email": "Britos@Britos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IHC",
+      "UltimoNome": "",
+      "Email": "IHC@IHC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Arden Pharma",
+      "UltimoNome": "",
+      "Email": "ArdenPharma@ArdenPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vifor",
+      "UltimoNome": "",
+      "Email": "Vifor@Vifor.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BSK Medical",
+      "UltimoNome": "",
+      "Email": "BSKMedical@BSKMedical.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Laboratório Iberfar",
+      "UltimoNome": "",
+      "Email": "LaboratórioIberfar@LaboratórioIberfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FIT Portugal",
+      "UltimoNome": "",
+      "Email": "FITPortugal@FITPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmácia Nova Olival",
+      "UltimoNome": "",
+      "Email": "FarmáciaNovaOlival@FarmáciaNovaOlival.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Maialab",
+      "UltimoNome": "",
+      "Email": "Maialab@Maialab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fold",
+      "UltimoNome": "",
+      "Email": "Fold@Fold.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ortotécnica",
+      "UltimoNome": "",
+      "Email": "Ortotécnica@Ortotécnica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Roha",
+      "UltimoNome": "",
+      "Email": "Roha@Roha.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MEDICINALIA CORMED",
+      "UltimoNome": "",
+      "Email": "MEDICINALIACORMED@MEDICINALIACORMED.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Farmahealth",
+      "UltimoNome": "",
+      "Email": "ITFFarmahealth@ITFFarmahealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Novartis Consumer Health",
+      "UltimoNome": "",
+      "Email": "NovartisConsumerHealth@NovartisConsumerHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "TRIMB HEALTHCARE",
+      "UltimoNome": "",
+      "Email": "TRIMBHEALTHCARE@TRIMBHEALTHCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Teva Portugal",
+      "UltimoNome": "",
+      "Email": "TevaPortugal@TevaPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dimor",
+      "UltimoNome": "",
+      "Email": "Dimor@Dimor.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bastos Viegas",
+      "UltimoNome": "",
+      "Email": "BastosViegas@BastosViegas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dietique et Sante",
+      "UltimoNome": "",
+      "Email": "DietiqueetSante@DietiqueetSante.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Theramex",
+      "UltimoNome": "",
+      "Email": "Theramex@Theramex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Suplasphera",
+      "UltimoNome": "",
+      "Email": "Suplasphera@Suplasphera.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Saro",
+      "UltimoNome": "",
+      "Email": "Saro@Saro.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Unifa",
+      "UltimoNome": "",
+      "Email": "Unifa@Unifa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Korangi",
+      "UltimoNome": "",
+      "Email": "Korangi@Korangi.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pensofarma",
+      "UltimoNome": "",
+      "Email": "Pensofarma@Pensofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MENARINI DIAGNOST.",
+      "UltimoNome": "",
+      "Email": "MENARINIDIAGNOST.@MENARINIDIAGNOST..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sangool Produtos",
+      "UltimoNome": "",
+      "Email": "SangoolProdutos@SangoolProdutos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Innophar",
+      "UltimoNome": "",
+      "Email": "Innophar@Innophar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Arafarma",
+      "UltimoNome": "",
+      "Email": "Arafarma@Arafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "STOMACARE",
+      "UltimoNome": "",
+      "Email": "STOMACARE@STOMACARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nasofis",
+      "UltimoNome": "",
+      "Email": "Nasofis@Nasofis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KTB PROD.FARMA.S.A",
+      "UltimoNome": "",
+      "Email": "KTBPROD.FARMA.S.A@KTBPROD.FARMA.S.A.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Brudylab",
+      "UltimoNome": "",
+      "Email": "Brudylab@Brudylab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Farma",
+      "UltimoNome": "",
+      "Email": "ITFFarma@ITFFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cofanor",
+      "UltimoNome": "",
+      "Email": "Cofanor@Cofanor.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PENNINE HEALTHCARE",
+      "UltimoNome": "",
+      "Email": "PENNINEHEALTHCARE@PENNINEHEALTHCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Medinfar",
+      "UltimoNome": "",
+      "Email": "Medinfar@Medinfar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Overpharma",
+      "UltimoNome": "",
+      "Email": "Overpharma@Overpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SALTS HEALTHCARE",
+      "UltimoNome": "",
+      "Email": "SALTSHEALTHCARE@SALTSHEALTHCARE.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Plural",
+      "UltimoNome": "",
+      "Email": "Plural@Plural.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AGEPHA PHARMA",
+      "UltimoNome": "",
+      "Email": "AGEPHAPHARMA@AGEPHAPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Upharma",
+      "UltimoNome": "",
+      "Email": "Upharma@Upharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Münhoz Caro",
+      "UltimoNome": "",
+      "Email": "MünhozCaro@MünhozCaro.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AMO-Abbott Medical Optics",
+      "UltimoNome": "",
+      "Email": "AMO-AbbottMedicalOptics@AMO-AbbottMedicalOptics.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "IASN",
+      "UltimoNome": "",
+      "Email": "IASN@IASN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gestafarma",
+      "UltimoNome": "",
+      "Email": "Gestafarma@Gestafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Orgarin",
+      "UltimoNome": "",
+      "Email": "Orgarin@Orgarin.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AMD Passos",
+      "UltimoNome": "",
+      "Email": "AMDPassos@AMDPassos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LILLY PORTUGAL",
+      "UltimoNome": "",
+      "Email": "LILLYPORTUGAL@LILLYPORTUGAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ITF Healthvita",
+      "UltimoNome": "",
+      "Email": "ITFHealthvita@ITFHealthvita.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "S.F.D.",
+      "UltimoNome": "",
+      "Email": "S.F.D.@S.F.D..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jaba Recordati - Consumer Health",
+      "UltimoNome": "",
+      "Email": "JabaRecordati-ConsumerHealth@JabaRecordati-ConsumerHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Humagen",
+      "UltimoNome": "",
+      "Email": "Humagen@Humagen.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AS GRINDEKS",
+      "UltimoNome": "",
+      "Email": "ASGRINDEKS@ASGRINDEKS.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vida",
+      "UltimoNome": "",
+      "Email": "Vida@Vida.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SWEDISH ORPHAN",
+      "UltimoNome": "",
+      "Email": "SWEDISHORPHAN@SWEDISHORPHAN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "L. Lepori (Emp. G. Angelini)",
+      "UltimoNome": "",
+      "Email": "L.Lepori(Emp.G.Angelini)@L.Lepori(Emp.G.Angelini).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "QUIMEDICAL P.FARM.",
+      "UltimoNome": "",
+      "Email": "QUIMEDICALP.FARM.@QUIMEDICALP.FARM..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aguarela do Mundo",
+      "UltimoNome": "",
+      "Email": "AguareladoMundo@AguareladoMundo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "JUVISE PHARMACEUT",
+      "UltimoNome": "",
+      "Email": "JUVISEPHARMACEUT@JUVISEPHARMACEUT.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Abílio Freire",
+      "UltimoNome": "",
+      "Email": "AbílioFreire@AbílioFreire.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmarex",
+      "UltimoNome": "",
+      "Email": "Farmarex@Farmarex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "NTC SRL",
+      "UltimoNome": "",
+      "Email": "NTCSRL@NTCSRL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "INOVAR",
+      "UltimoNome": "",
+      "Email": "INOVAR@INOVAR.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Fitotua",
+      "UltimoNome": "",
+      "Email": "Fitotua@Fitotua.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FHC",
+      "UltimoNome": "",
+      "Email": "FHC@FHC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ferraz Lynce",
+      "UltimoNome": "",
+      "Email": "FerrazLynce@FerrazLynce.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "F. Lima",
+      "UltimoNome": "",
+      "Email": "F.Lima@F.Lima.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Solutions 4 Growth",
+      "UltimoNome": "",
+      "Email": "Solutions4Growth@Solutions4Growth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Garnier",
+      "UltimoNome": "",
+      "Email": "Garnier@Garnier.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Norgine",
+      "UltimoNome": "",
+      "Email": "Norgine@Norgine.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vithealthcare",
+      "UltimoNome": "",
+      "Email": "Vithealthcare@Vithealthcare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FAES FARMA PORTUG",
+      "UltimoNome": "",
+      "Email": "FAESFARMAPORTUG@FAESFARMAPORTUG.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SOC.FAR.GESTAFARMA",
+      "UltimoNome": "",
+      "Email": "SOC.FAR.GESTAFARMA@SOC.FAR.GESTAFARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "STAFFORD MILLER",
+      "UltimoNome": "",
+      "Email": "STAFFORDMILLER@STAFFORDMILLER.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dermoteca (Lab. Instituto Ganassini)",
+      "UltimoNome": "",
+      "Email": "Dermoteca(Lab.InstitutoGanassini)@Dermoteca(Lab.InstitutoGanassini).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "B. Braun",
+      "UltimoNome": "",
+      "Email": "B.Braun@B.Braun.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Meda Pharma",
+      "UltimoNome": "",
+      "Email": "MedaPharma@MedaPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Labesfal Genéricos",
+      "UltimoNome": "",
+      "Email": "LabesfalGenéricos@LabesfalGenéricos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farminter",
+      "UltimoNome": "",
+      "Email": "Farminter@Farminter.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Natures Best",
+      "UltimoNome": "",
+      "Email": "NaturesBest@NaturesBest.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Admin",
+      "UltimoNome": "",
+      "Email": "admin",
+      "Password": "123",
+      "Papel": "Administrador"
+    },
+    {
+      "PrimeiroNome": "Norfarma",
+      "UltimoNome": "",
+      "Email": "Norfarma@Norfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Labesfal",
+      "UltimoNome": "",
+      "Email": "Labesfal@Labesfal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ANT. PAC. AGOSTINHO (WARNER-LAMBERT (CONSUMER HEAL",
+      "UltimoNome": "",
+      "Email": "ANT.PAC.AGOSTINHO(WARNER-LAMBERT(CONSUMERHEAL@ANT.PAC.AGOSTINHO(WARNER-LAMBERT(CONSUMERHEAL.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Cosveritas Portugal",
+      "UltimoNome": "",
+      "Email": "CosveritasPortugal@CosveritasPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Plandite",
+      "UltimoNome": "",
+      "Email": "Plandite@Plandite.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Neuraxpharm",
+      "UltimoNome": "",
+      "Email": "Neuraxpharm@Neuraxpharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Intea",
+      "UltimoNome": "",
+      "Email": "Intea@Intea.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Friofarma",
+      "UltimoNome": "",
+      "Email": "Friofarma@Friofarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SANTEN",
+      "UltimoNome": "",
+      "Email": "SANTEN@SANTEN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Invacare",
+      "UltimoNome": "",
+      "Email": "Invacare@Invacare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Glutamine",
+      "UltimoNome": "",
+      "Email": "Glutamine@Glutamine.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Lifediet",
+      "UltimoNome": "",
+      "Email": "Lifediet@Lifediet.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KEDRION S.p. A.",
+      "UltimoNome": "",
+      "Email": "KEDRIONS.p.A.@KEDRIONS.p.A..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pierre Fabre Oral Care",
+      "UltimoNome": "",
+      "Email": "PierreFabreOralCare@PierreFabreOralCare.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biophyto",
+      "UltimoNome": "",
+      "Email": "Biophyto@Biophyto.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Belmed",
+      "UltimoNome": "",
+      "Email": "Belmed@Belmed.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sanóbia",
+      "UltimoNome": "",
+      "Email": "Sanóbia@Sanóbia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Soria Natural Portugal",
+      "UltimoNome": "",
+      "Email": "SoriaNaturalPortugal@SoriaNaturalPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SLM",
+      "UltimoNome": "",
+      "Email": "SLM@SLM.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BIOGEN IDEC PORT.",
+      "UltimoNome": "",
+      "Email": "BIOGENIDECPORT.@BIOGENIDECPORT..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Meridian Constellation",
+      "UltimoNome": "",
+      "Email": "MeridianConstellation@MeridianConstellation.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ROCHE DIAGNOSTICA",
+      "UltimoNome": "",
+      "Email": "ROCHEDIAGNOSTICA@ROCHEDIAGNOSTICA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Logicalpharma",
+      "UltimoNome": "",
+      "Email": "Logicalpharma@Logicalpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DC Pharm",
+      "UltimoNome": "",
+      "Email": "DCPharm@DCPharm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Celticum",
+      "UltimoNome": "",
+      "Email": "Celticum@Celticum.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmasierra",
+      "UltimoNome": "",
+      "Email": "Farmasierra@Farmasierra.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AG Farma",
+      "UltimoNome": "",
+      "Email": "AGFarma@AGFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ZR PHARMA& GMBH",
+      "UltimoNome": "",
+      "Email": "ZRPHARMA&GMBH@ZRPHARMA&GMBH.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Maldincentiv",
+      "UltimoNome": "",
+      "Email": "Maldincentiv@Maldincentiv.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vajra",
+      "UltimoNome": "",
+      "Email": "Vajra@Vajra.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biozone Pharma",
+      "UltimoNome": "",
+      "Email": "BiozonePharma@BiozonePharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SCA",
+      "UltimoNome": "",
+      "Email": "SCA@SCA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bialport",
+      "UltimoNome": "",
+      "Email": "Bialport@Bialport.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Taolab",
+      "UltimoNome": "",
+      "Email": "Taolab@Taolab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Filorga",
+      "UltimoNome": "",
+      "Email": "Filorga@Filorga.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "STN",
+      "UltimoNome": "",
+      "Email": "STN@STN.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Y Farma",
+      "UltimoNome": "",
+      "Email": "YFarma@YFarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "José",
+      "UltimoNome": "Silva",
+      "Email": "Jose@farm.com",
+      "Password": "123",
+      "Papel": "Farmaceutico"
+    },
+    {
+      "PrimeiroNome": "Codivector",
+      "UltimoNome": "",
+      "Email": "Codivector@Codivector.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biocol",
+      "UltimoNome": "",
+      "Email": "Biocol@Biocol.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Labs Beemine",
+      "UltimoNome": "",
+      "Email": "LabsBeemine@LabsBeemine.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Forte Pharma",
+      "UltimoNome": "",
+      "Email": "FortePharma@FortePharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Expanscience",
+      "UltimoNome": "",
+      "Email": "Expanscience@Expanscience.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "KTB",
+      "UltimoNome": "",
+      "Email": "KTB@KTB.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "LUTEME",
+      "UltimoNome": "",
+      "Email": "LUTEME@LUTEME.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Smith & Nephew",
+      "UltimoNome": "",
+      "Email": "Smith&Nephew@Smith&Nephew.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "PHARMA BAVARIA",
+      "UltimoNome": "",
+      "Email": "PHARMABAVARIA@PHARMABAVARIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biowell Europe",
+      "UltimoNome": "",
+      "Email": "BiowellEurope@BiowellEurope.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Tecnifar",
+      "UltimoNome": "",
+      "Email": "Tecnifar@Tecnifar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Grünenthal S.A.",
+      "UltimoNome": "",
+      "Email": "GrünenthalS.A.@GrünenthalS.A..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aflofarm",
+      "UltimoNome": "",
+      "Email": "Aflofarm@Aflofarm.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Prospa",
+      "UltimoNome": "",
+      "Email": "Prospa@Prospa.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Azevedos",
+      "UltimoNome": "",
+      "Email": "Azevedos@Azevedos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Onsalesit",
+      "UltimoNome": "",
+      "Email": "Onsalesit@Onsalesit.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "CODILAB IND.C.P.F.",
+      "UltimoNome": "",
+      "Email": "CODILABIND.C.P.F.@CODILABIND.C.P.F..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MERCK SHARP DOH/SP",
+      "UltimoNome": "",
+      "Email": "MERCKSHARPDOH/SP@MERCKSHARPDOH/SP.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Boehringer Ingelheim",
+      "UltimoNome": "",
+      "Email": "BoehringerIngelheim@BoehringerIngelheim.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pierre Fabre Médicament",
+      "UltimoNome": "",
+      "Email": "PierreFabreMédicament@PierreFabreMédicament.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pharmia",
+      "UltimoNome": "",
+      "Email": "Pharmia@Pharmia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Perrigo",
+      "UltimoNome": "",
+      "Email": "Perrigo@Perrigo.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Grupo NC Salud",
+      "UltimoNome": "",
+      "Email": "GrupoNCSalud@GrupoNCSalud.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Servier",
+      "UltimoNome": "",
+      "Email": "Servier@Servier.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Welland",
+      "UltimoNome": "",
+      "Email": "Welland@Welland.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Gingerformula",
+      "UltimoNome": "",
+      "Email": "Gingerformula@Gingerformula.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmoplex",
+      "UltimoNome": "",
+      "Email": "Farmoplex@Farmoplex.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Factor PLus",
+      "UltimoNome": "",
+      "Email": "FactorPLus@FactorPLus.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Krka",
+      "UltimoNome": "",
+      "Email": "Krka@Krka.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Quilaban",
+      "UltimoNome": "",
+      "Email": "Quilaban@Quilaban.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biogalénica",
+      "UltimoNome": "",
+      "Email": "Biogalénica@Biogalénica.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "DARIO CORREIA",
+      "UltimoNome": "",
+      "Email": "DARIOCORREIA@DARIOCORREIA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Zambon",
+      "UltimoNome": "",
+      "Email": "Zambon@Zambon.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Vemedia",
+      "UltimoNome": "",
+      "Email": "Vemedia@Vemedia.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Santen Portugal",
+      "UltimoNome": "",
+      "Email": "SantenPortugal@SantenPortugal.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FRIULCHEM SPA",
+      "UltimoNome": "",
+      "Email": "FRIULCHEMSPA@FRIULCHEMSPA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Growing",
+      "UltimoNome": "",
+      "Email": "Growing@Growing.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Jerónimo Martins",
+      "UltimoNome": "",
+      "Email": "JerónimoMartins@JerónimoMartins.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Leo Farmacêuticos",
+      "UltimoNome": "",
+      "Email": "LeoFarmacêuticos@LeoFarmacêuticos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Atos Medical",
+      "UltimoNome": "",
+      "Email": "AtosMedical@AtosMedical.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Areafar",
+      "UltimoNome": "",
+      "Email": "Areafar@Areafar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "VEDIM (AVENTIS PASTEUR MSD)",
+      "UltimoNome": "",
+      "Email": "VEDIM(AVENTISPASTEURMSD)@VEDIM(AVENTISPASTEURMSD).com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Dosisfarma",
+      "UltimoNome": "",
+      "Email": "Dosisfarma@Dosisfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pangiter",
+      "UltimoNome": "",
+      "Email": "Pangiter@Pangiter.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SI",
+      "UltimoNome": "",
+      "Email": "SI@SI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Beiersdorf",
+      "UltimoNome": "",
+      "Email": "Beiersdorf@Beiersdorf.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Uriach Theralab",
+      "UltimoNome": "",
+      "Email": "UriachTheralab@UriachTheralab.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "INFECTOPHARMA",
+      "UltimoNome": "",
+      "Email": "INFECTOPHARMA@INFECTOPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pierre Fabre Dermo-Cosmétique",
+      "UltimoNome": "",
+      "Email": "PierreFabreDermo-Cosmétique@PierreFabreDermo-Cosmétique.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Procare Health",
+      "UltimoNome": "",
+      "Email": "ProcareHealth@ProcareHealth.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "SOBI",
+      "UltimoNome": "",
+      "Email": "SOBI@SOBI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Biojam",
+      "UltimoNome": "",
+      "Email": "Biojam@Biojam.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Feelnat",
+      "UltimoNome": "",
+      "Email": "Feelnat@Feelnat.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Eden Bay",
+      "UltimoNome": "",
+      "Email": "EdenBay@EdenBay.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Paulo Ferreira & Santos",
+      "UltimoNome": "",
+      "Email": "PauloFerreira&Santos@PauloFerreira&Santos.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nally",
+      "UltimoNome": "",
+      "Email": "Nally@Nally.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ampliphar",
+      "UltimoNome": "",
+      "Email": "Ampliphar@Ampliphar.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Freewill",
+      "UltimoNome": "",
+      "Email": "Freewill@Freewill.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Danisol",
+      "UltimoNome": "",
+      "Email": "Danisol@Danisol.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "ALODIAL FARMACEUT.",
+      "UltimoNome": "",
+      "Email": "ALODIALFARMACEUT.@ALODIALFARMACEUT..com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ervanaria Rosil",
+      "UltimoNome": "",
+      "Email": "ErvanariaRosil@ErvanariaRosil.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bristol-Myers Squibb",
+      "UltimoNome": "",
+      "Email": "Bristol-MyersSquibb@Bristol-MyersSquibb.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Kironfarma",
+      "UltimoNome": "",
+      "Email": "Kironfarma@Kironfarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Meridional Mountains",
+      "UltimoNome": "",
+      "Email": "MeridionalMountains@MeridionalMountains.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "OWLPHARMA",
+      "UltimoNome": "",
+      "Email": "OWLPHARMA@OWLPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sociedade Portuense de Drogas",
+      "UltimoNome": "",
+      "Email": "SociedadePortuensedeDrogas@SociedadePortuensedeDrogas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "AVENTIS BEHRING",
+      "UltimoNome": "",
+      "Email": "AVENTISBEHRING@AVENTISBEHRING.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Miller Medical",
+      "UltimoNome": "",
+      "Email": "MillerMedical@MillerMedical.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Zeller",
+      "UltimoNome": "",
+      "Email": "Zeller@Zeller.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Justpharma",
+      "UltimoNome": "",
+      "Email": "Justpharma@Justpharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Ipsen",
+      "UltimoNome": "",
+      "Email": "Ipsen@Ipsen.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "FIDIA FARMACEUTICI",
+      "UltimoNome": "",
+      "Email": "FIDIAFARMACEUTICI@FIDIAFARMACEUTICI.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Pentafarma",
+      "UltimoNome": "",
+      "Email": "Pentafarma@Pentafarma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MUNDIPHARMA FARMAC",
+      "UltimoNome": "",
+      "Email": "MUNDIPHARMAFARMAC@MUNDIPHARMAFARMAC.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "MyPharma",
+      "UltimoNome": "",
+      "Email": "MyPharma@MyPharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Feelbeauty",
+      "UltimoNome": "",
+      "Email": "Feelbeauty@Feelbeauty.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Purelogicol",
+      "UltimoNome": "",
+      "Email": "Purelogicol@Purelogicol.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Bolton Cile",
+      "UltimoNome": "",
+      "Email": "BoltonCile@BoltonCile.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Nicepharma",
+      "UltimoNome": "",
+      "Email": "Nicepharma@Nicepharma.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "BLUEFISH PHARMA",
+      "UltimoNome": "",
+      "Email": "BLUEFISHPHARMA@BLUEFISHPHARMA.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Alcino Coutinho",
+      "UltimoNome": "",
+      "Email": "AlcinoCoutinho@AlcinoCoutinho.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Xarmadis",
+      "UltimoNome": "",
+      "Email": "Xarmadis@Xarmadis.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Aurovitas",
+      "UltimoNome": "",
+      "Email": "Aurovitas@Aurovitas.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Sara Lee",
+      "UltimoNome": "",
+      "Email": "SaraLee@SaraLee.com",
+      "Password": "123",
+      "Papel": "Industria"
+    },
+    {
+      "PrimeiroNome": "Farmadose",
+      "UltimoNome": "",
+      "Email": "Farmadose@Farmadose.com",
+      "Password": "123",
+      "Papel": "Industria"
+    }
+  ]
+}
